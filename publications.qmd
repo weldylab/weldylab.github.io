@@ -1,0 +1,16 @@
+---
+title: "Publications"
+---
+
+## Selected publications
+
+-Weldy, C. S. et al. Smooth muscle expression of RNA editing enzyme ADAR1 controls activation of the RNA sensor MDA5 in atherosclerosis. Nat. Cardiovasc. Res. 1–17 (2025) doi:10.1038/s44161-025-00710-5.
+-Weldy, C. S. et al. Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci. Mol. Syst. Biol. 1–25 (2025) doi:10.1038/s44320-025-00140-2.
+-Weldy, C. S. & Ashley, E. A. Towards precision medicine in heart failure. Nat Rev Cardiol 1–18 (2021) doi:10.1038/s41569-021-00566-9.
+  
+
+## Preprints
+-Ramste, M. et al. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684.
+  
+
+
