@@ -7,7 +7,7 @@ image: ../images/news/tiny-bits-rna-CHD.jpg
 
 ![](../images/news/tiny-bits-rna-CHD.jpg){fig-align="center" width=85%}
 
-Stanford Medicine featured Dr. Weldy's research showing that **tiny pieces of RNA (microRNAs)** in the blood hold clues to heart problems in adults born with tetralogy of Fallot, a common form of congenital heart disease. :contentReference[oaicite:0]{index=0}
+Stanford Medicine featured Dr. Weldy's research showing that **tiny pieces of RNA (microRNAs)** in the blood hold clues to heart problems in adults born with tetralogy of Fallot, a common form of congenital heart disease.
 
 The study — published in *PLOS ONE* — measured microRNA expression in the bloodstream of adults who had surgical repair of tetralogy of Fallot and also received heart imaging. Researchers found that specific microRNA patterns correlated with **enlargement of the right ventricle**, a key sign of ventricular dysfunction not always fully captured by standard echocardiograms. 
 
