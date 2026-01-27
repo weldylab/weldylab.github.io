@@ -57,7 +57,7 @@ We dissect epigenetic and molecular mechanisms using conditional smooth muscle d
 
 ::: {.columns}
 ::: {.column width="33%"}
-![](images/NatCVR_Cover.jpg){fig-align="center" width=90%}
+[![](images/NatCVR_Cover.jpg){fig-align="center" width=90%}](https://doi.org/10.1038/s44161-025-00710-5)
 :::
 
 ::: {.column width="67%"}
@@ -73,7 +73,7 @@ PMID: 40958051 · DOI: 10.1038/s44161-025-00710-5
 
 ::: {.columns}
 ::: {.column width="33%"}
-![](images/MolecularSysBio_Cover.jpg){fig-align="center" width=90%}
+[![](images/MolecularSysBio_Cover.jpg){fig-align="center" width=90%}](https://doi.org/10.1038/s44320-025-00140-2)
 :::
 
 ::: {.column width="67%"}
@@ -104,3 +104,27 @@ PMID: 40931195 · DOI: 10.1038/s44320-025-00140-2
 
 - **NIH/NHLBI Loan Repayment Program (LRP)** — (Jul 2021) — PI: Chad Weldy  
   “Single-cell transcriptomic and epigenomic features of human atherosclerosis”
+
+## In the news
+
+::: {.columns .v-center}
+::: {.column width="25%"}
+[![](images/news/RNAedit.jpg){width=100% style="border-radius:8px;"}](news/2024-11-16-stanford-medicine-rna-editing.html)
+:::
+::: {.column width="75%"}
+### Stanford Medicine highlights our RNA editing work
+A Stanford Medicine feature on ADAR1 RNA editing, dsRNA sensing, and implications for cardiovascular disease mechanisms.  
+[Read the story →](news/2024-11-16-stanford-medicine-rna-editing.html)
+:::
+:::
+
+::: {.columns .v-center}
+::: {.column width="25%"}
+[![](images/news/developmental-memory-arteries.jpg){width=100% style="border-radius:8px;"}](news/2025-12-15-developmental-memory-arteries.html)
+:::
+::: {.column width="75%"}
+### Stanford CVI story on developmental “memory” in arteries
+How developmental origin leaves lasting transcriptional/epigenomic imprinting that shapes regional vascular disease risk.  
+[Read the story →](news/2025-12-15-developmental-memory-arteries.html)
+:::
+:::
