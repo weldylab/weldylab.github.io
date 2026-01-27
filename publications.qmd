@@ -2,19 +2,23 @@
 title: "Publications"
 ---
 
-## Selected publications
+## Featured publications
 
--Weldy, C. S. et al. Smooth muscle expression of RNA editing enzyme ADAR1 controls activation of the RNA sensor MDA5 in atherosclerosis. Nat. Cardiovasc. Res. 1–17 (2025) doi:10.1038/s44161-025-00710-5.
+::: {.columns}
+::: {.column width="25%"}
+[![](images/NatCVR_Cover.jpg){width=100% style="border-radius:6px;"}](https://doi.org/10.1038/s44161-025-00710-5)
+:::
+::: {.column width="25%"}
+[![](images/MolecularSysBio_Cover.jpg){width=100% style="border-radius:6px;"}](https://doi.org/10.1038/s44320-025-00140-2)
+:::
+::: {.column width="25%"}
+[![](images/CellGenomics_Cover.jpg){width=100% style="border-radius:6px;"}](https://doi.org/10.1016/j.xgen.2025.101034)
+:::
+::: {.column width="25%"}
+[![](images/NatureReviewsCards_Cover.jpg){width=100% style="border-radius:6px;"}](https://doi.org/10.1038/s41569-021-00566-9)
+:::
+:::
 
--Weldy, C. S. et al. Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci. Mol. Syst. Biol. 1–25 (2025) doi:10.1038/s44320-025-00140-2.
-
--Weldy, C. S. & Ashley, E. A. Towards precision medicine in heart failure. Nat Rev Cardiol 1–18 (2021) doi:10.1038/s41569-021-00566-9.
-
-
-
-## Preprints
-
--Ramste, M. et al. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684.
   
 ## Publications
 
@@ -76,5 +80,7 @@ o	Featured in Stanford University School of Medicine SCOPE blog — “Tiny bits
 
 27.	Weldy, C. S., Wilkerson, H.-W., Larson, T. V., Stewart, J. A., & Kavanagh, T. J. (2011). DIESEL particulate exposed macrophages alter endothelial cell expression of eNOS, iNOS, MCP1, and glutathione synthesis genes. Toxicology in Vitro : an International Journal Published in Association with BIBRA, 25(8), 2064–2073. http://doi.org/10.1016/j.tiv.2011.08.008 
 
+## Preprints
 
+-Ramste, M. et al. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684.
 
