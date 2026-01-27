@@ -3,7 +3,7 @@ title: "Chad Weldy, MD, PhD"
 subtitle: "Principal Investigator"
 affiliations: "Stanford University"
 order: 1
-image: "https://placehold.co/600x600"
+image: [](/images/Weldy-Chad_13_Horiz.jpg)
 ---
 
 ### Bio
