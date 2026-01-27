@@ -1,4 +1,5 @@
 /* Spacing for featured publication cover images */
-.cover-column {
-  padding-right: 2.5rem;
+.columns .cover-column {
+  padding-right: 2.5rem !important;
 }
+body { outline: 4px solid rgba(255,0,0,0.15); }
