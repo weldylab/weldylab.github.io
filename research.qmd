@@ -10,29 +10,46 @@ We leverage **human genetics** to identify causal mechanisms of cardiovascular d
 
 ## Research pillars
 
-::: {.columns}
-::: {.column width="50%"}
+::: {.columns .v-center}
+::: {.column width="30%"}
+![](images/research/pillar-adar1.jpg){width=100% fig-align="center"}
+:::
+::: {.column width="70%"}
 ### 1) ADAR1 RNA editing and dsRNA sensing in vascular disease
 We study smooth muscle–specific **ADAR1-mediated RNA editing**, dsRNA accumulation, and activation of **MDA5 (IFIH1)** in atherosclerosis and vascular calcification.
 :::
+:::
 
-::: {.column width="50%"}
+::: {.columns .v-center}
+::: {.column width="30%"}
+![](images/research/pillar-vascularbeds.jpg){width=100% fig-align="center"}
+:::
+::: {.column width="70%"}
 ### 2) Vascular-bed specificity at single-cell resolution
 We define how **developmental origin** and **vascular bed** shape cell states, enhancers, and genetic risk mechanisms across human vascular disease.
 :::
 :::
 
-::: {.columns}
-::: {.column width="50%"}
+::: {.columns .v-center}
+::: {.column width="30%"}
+![](images/research/pillar-crispri.jpg){width=100% fig-align="center"}
+:::
+::: {.column width="70%"}
 ### 3) Functional genomics for CAD genes in human CASMCs
 We use **CRISPRi screening** with **targeted Perturb-seq (TAP-seq)** to map causal CAD genes to pathways and phenotypes in human coronary artery smooth muscle cells.
 :::
+:::
 
-::: {.column width="50%"}
+::: {.columns .v-center}
+::: {.column width="30%"}
+![](images/research/pillar-mouse.jpg){width=100% fig-align="center"}
+:::
+::: {.column width="70%"}
 ### 4) Mouse genetics of smooth muscle transition and calcification
 We dissect epigenetic and molecular mechanisms using conditional smooth muscle deletion models (e.g., **Pdgfd**, **Sox9**) to connect genetics to disease phenotypes.
 :::
 :::
+
 
 ---
 
