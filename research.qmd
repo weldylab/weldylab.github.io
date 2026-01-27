@@ -1,0 +1,43 @@
+As a physician-scientist I work to understand the genetic basis of cardiovascular disease and the transcriptional and epigenomic mechanisms of atherosclerosis. My work is focused across four main areas of cardiovascular genetics and mechanisms of coronary artery disease and smooth muscle biology:
+
+1.Vascular smooth muscle specific ADAR1 mediated RNA editing of double stranded RNA and activation of the double stranded RNA receptor MDA5 in coronary artery disease and vascular calcification
+2.Defining on single cell resolution the cellular and epigenomic features of human vascular disease across vascular beds of differing embryonic origin
+3.CRISPRi screening with targeted perturb seq (TAPseq) to identify novel CAD genes in human coronary artery smooth muscle cells
+4.Investigation of the epigenetic and molecular basis of coronary artery disease and smooth muscle cell transition in mice with conditional smooth muscle genetic deletion of CAD genes Pdgfd and Sox9
+
+My work is focused on discovery of causal mechanisms of disease through leveraging human genetics with sophisticated molecular biology, single cell sequencing technologies, and mouse models of disease. This work attempts to apply multiple scientific research arms to ultimately lead to novel understandings of vascular disease and discover important new therapeutic approaches for drug discovery.
+
+First Author Manuscripts for this work:
+
+•Weldy, C. S., et al. (2025). Smooth muscle cell expression of RNA editing enzyme ADAR1 controls activation of RNA sensor MDA5 in atherosclerosis. (2025). Nature Cardiovascular Research. 1-17, PMID: 40958051, doi: 10.1038/s44161-025-00710-5
+•*Selected as finalist for Louis N. and Arnold M. Katz Basic Science Research Prize from the American Heart Association, finalist competition November 16, 2024, Chicago
+•Work was highlighted in the Stanford Department of Medicine News
+https://medicine.stanford.edu/news/current-news/standard-news/RNA-editing.html
+
+
+•Weldy, C.S., et al. (2025). Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci. Molecular Systems Biology. 1-25, PMID: 40931195, doi:10.1038/s44320-025-00140-2.
+•*Selected for the cover of November 2025 edition of Molecular Systems Biology
+
+
+Grant funding received for this work:
+
+Mentored Clinical Scientist Research Career Development Award (K08)(NIH/NHLBI, 1 K08 HL167699-01), August, 2023 – July 2028. PI: Weldy, Chad
+•Title of proposal: “ADAR Mediated RNA editing is a causal mechanism in coronary artery disease”.
+•Activated 08/01/2023
+•$850,000 over 5 years
+
+Career Development Award, American Heart Association (AHA CDA)(23CDA1042900), July, 2023 – June, 2026. PI: Weldy, Chad
+•Title of proposal: “Linking RNA editing to coronary artery calcification and disease”
+•Activated 07/01/2023
+•$231,000 over three years
+
+NIH Loan Repayment Program (LRP) Award (NIH/NHLBI) Renewal Award, July, 2023. PI: Weldy, Chad
+•Title of proposal: “RNA editing is a causal mechanism of coronary artery disease”
+
+Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (F32) (NIH/NHLBI, 1 F32 HL160067-01), July, 2021 – June 2023 (Completed). PI: Weldy, Chad
+• Titled, “A transcriptional network which governs smooth muscle transition is mediated by causal coronary artery disease gene PDGFD”
+•*Received perfect score with impact score 10, 1st percentile
+
+NIH Loan Repayment Program (LRP) Award (NIH/NHLBI), July, 2021. PI: Weldy, Chad
+•Title of proposal: "Single cell transcriptomic and epigenomic features of human atherosclerosis".
+•This will award up to $100,000 towards student loans over the next 24 months with opportunity for renewal after 24 months.
