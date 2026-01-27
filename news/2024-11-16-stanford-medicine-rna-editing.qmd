@@ -2,6 +2,7 @@
 title: "Stanford Medicine highlights our RNA editing work in atherosclerosis"
 date: 2024-11-16
 description: "Stanford Medicine featured our work on ADAR1 RNA editing and MDA5 dsRNA sensing as a genetic mechanism contributing to coronary artery disease."
+image: ../news/RNAedit.jpg
 ---
 
 ![](../news/RNAedit.jpg){fig-align="center" width=85%}
