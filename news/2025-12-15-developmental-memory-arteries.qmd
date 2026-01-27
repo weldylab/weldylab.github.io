@@ -1,15 +1,15 @@
 ---
 title: "Stanford CVI story: developmental “memory” shapes arteries and disease risk"
 date: 2025-12-15
-description: "Stanford Cardiovascular Institute highlights research showing how arteries retain a developmental imprint that influences disease susceptibility."
+description: "Stanford Cardiovascular Institute highlights our recent publications showing how arteries retain a developmental imprint that influences disease susceptibility."
 image: ../images/news/Covers.jpeg
 ---
 
 ![](../images/news/Covers.jpeg){fig-align="center" width=85%}
 
-The Stanford Cardiovascular Institute (CVI) recently featured a compelling story highlighting work from the Weldy, Cheng, and Quertermous labs revealing that **arterial segments carry a molecular “memory” of their developmental origin**, and that this imprint shapes how arteries later respond to stress, injury, and disease. 
+The Stanford Cardiovascular Institute (CVI) recently featured published a compelling story highlighting our collaborative work from the Weldy, Cheng, and Quertermous labs revealing that **arterial segments carry a molecular “memory” of their developmental origin**, and that this imprint shapes how arteries later respond to stress, injury, and disease. 
 
-The article *“How Developmental ‘Memory’ Shapes the Arteries, and the Diseases They Face”* explains how our two complementary studies (Weldy et al., Molecular Systems Biology, 2025, Zhao et al., Cell Genomics, 2025) — one mapping the transcriptional architecture of human arteries, and another characterizing the underlying chromatin landscape in animal models — uncover how **embryonic lineage influences adult vascular biology and disease vulnerability**. 
+The article *“How Developmental ‘Memory’ Shapes the Arteries, and the Diseases They Face”* explains how our two complementary studies (Zhao et al., Cell Genomics, 2025, Weldy et al., Molecular Systems Biology, 2025) — one mapping the transcriptional architecture of human arteries, and another characterizing the underlying chromatin landscape in animal models — uncover how **embryonic lineage influences adult vascular biology and disease vulnerability**. 
 
 The first study led by the laboratory of our collaborator Dr. Cheng created a detailed **single-cell and spatial atlas of the human arterial wall**, showing that although arterial architecture is broadly conserved, the **gene expression programs of smooth muscle cells, fibroblasts, and other component cells vary dramatically by region**, reflective of their embryonic origin. 
 
