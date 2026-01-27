@@ -32,3 +32,4 @@ format:
     theme: cosmo
     toc: true
     smooth-scroll: true
+    css: styles.css
