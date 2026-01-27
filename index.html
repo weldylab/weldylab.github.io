@@ -1,11 +1,34 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Weldy Lab</title>
-  </head>
-  <body>
-    <h1>Weldy Lab</h1>
-    <p>weldylab.org is live via GitHub Pages.</p>
-  </body>
-</html>
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Weldy Lab"
+  site-url: "https://weldylab.org"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: news/
+        text: News
+      - href: join.qmd
+        text: Join
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© Weldy Lab"
+    right:
+      - icon: github
+        href: https://github.com/
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
