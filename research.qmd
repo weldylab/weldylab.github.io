@@ -120,7 +120,7 @@ A Stanford Medicine feature on ADAR1 RNA editing, dsRNA sensing, and implication
 
 ::: {.columns .v-center}
 ::: {.column width="25%"}
-[![](images/news/Covers.jpg){width=100% style="border-radius:8px;"}](news/2025-12-15-developmental-memory-arteries.html)
+[![](images/news/Covers.jpeg){width=100% style="border-radius:8px;"}](news/2025-12-15-developmental-memory-arteries.html)
 :::
 ::: {.column width="75%"}
 ### Stanford CVI story on developmental “memory” in arteries
