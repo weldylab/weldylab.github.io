@@ -1,0 +1,39 @@
+---
+title: "Chad Weldy, MD, PhD"
+subtitle: "Principal Investigator"
+affiliations: "Stanford University"
+order: 1
+image: "https://placehold.co/600x600"
+---
+
+### Bio
+Dr. Chad Weldy is a cardiologist and a faculty member within the Division of Cardiovascular Medicine and the Stanford Center for Inherited Cardiovascular Disease. 
+He received his M.D. from Duke University School of Medicine and completed his internal medicine internship, residency, and cardiology fellowship at Stanford University 
+as a member of the Stanford Translational Investigator Program (TIP). As a research fellow, he conducted research within the lab of Dr. Thomas Quertermous focused on 
+epigenetics, RNA editing, and genetic mechanisms of disease. His work has led to important discoveries in ADAR1 mediated RNA editing and RNA sensing as a causal mechanism 
+of coronary artery disease (PMID 40958051, Weldy et al., Nature Cardiovascular Research, 2025) as well as discoveries into the epigenomic landscape of single vascular cells 
+across vascular territories giving insight into the genetic etiologies of vascular disease (PMID 40931195, Weldy et al., Molecular Systems Biology, 2025).
+
+Prior to entering medical school, he received his Ph.D. from the University of Washington and completed a postdoctoral fellowship with the University of Washington, Division 
+of Cardiology where he conducted basic science research investigations within the fields of cardiovascular biology, redox biology, toxicology, and epigenetics. Dr. Weldy has 
+a clinical expertise within the field of inherited cardiomyopathies where he treats patients and families within Stanford’s Center for Inherited Cardiovascular Disease (SCICD) 
+where he trained under Dr. Euan Ashley. As a physician-scientist, Dr. Weldy works to better understand human genetics, epigenetics, and transcriptional regulation in cardiovascular 
+disease. Dr. Weldy has received funding through an NIH/NHLBI K08 Clinical Scientist Research Career Development Award, an American Heart Association Career Development Award (CDA), 
+an F32 Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship award, and an NIH Loan Repayment Award on his work focused on the genetic, 
+epigenetic, and RNA editing mechanisms of vascular disease. Within Stanford, Dr. Weldy has been the recipient of the Gerald Reaven Award for Basic Science from the Division of 
+Cardiovascular Medicine, he has been inducted into AOA from the Stanford School of Medicine, and he was the recipient for the Timothy F. Beckett Jr. Award for Best Clinical Teaching 
+from the Department of Medicine.
+
+Dr. Weldy is a native of the Pacific Northwest and is from Bainbridge Island, Washington. He continues to run, bike, and snowboard whenever he can while trying to keep up with his 
+two active kiddos.
+
+
+### Interests
+- Topic 1
+- Topic 2
+- Topic 3
+
+### Contact
+- Email: weldyc@stanford.edu
+- X: https://x.com/ChadSWeldy
+- Bluesky: https://bsky.app/profile/chadweldy.bsky.social
