@@ -65,6 +65,7 @@ We dissect epigenetic and molecular mechanisms using conditional smooth muscle d
 **Weldy CS**, et al. *Nature Cardiovascular Research* (2025).  
 PMID: 40958051 · DOI: 10.1038/s44161-025-00710-5
 
+- **Cover**: October 2025 issue Nature Cardiovascular Research
 - Finalist, **Louis N. and Arnold M. Katz Basic Science Research Prize** (AHA; Nov 16, 2024)
 - Highlighted by Stanford Department of Medicine News:  
   <https://medicine.stanford.edu/news/current-news/standard-news/RNA-editing.html>
@@ -81,7 +82,9 @@ PMID: 40958051 · DOI: 10.1038/s44161-025-00710-5
 **Weldy CS**, et al. *Molecular Systems Biology* (2025).  
 PMID: 40931195 · DOI: 10.1038/s44320-025-00140-2
 
-- **Cover**: November 2025 issue
+- **Cover**: November 2025 issue Molecular Systems Biology
+•	Work highlighted by the Stanford Cardiovascular Institute <https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2025/developmental-memory.html>
+
 :::
 :::
 
