@@ -2,4 +2,10 @@
 .columns .cover-column {
   padding-right: 2.5rem !important;
 }
-body { outline: 4px solid rgba(255,0,0,0.15); }
+.quarto-listing .listing-image img {
+  max-width: 140px;
+  border-radius: 6px;
+}
+.quarto-listing .listing-item {
+  padding-bottom: 1.5rem;
+}
