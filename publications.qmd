@@ -56,8 +56,6 @@ o	*Featured on the cover of the November 2021 edition of Nature Reviews Cardiolo
 
 16.	Weldy, C., Syed, S., Amsallem, M., Hu, D., Ji, X., Punn, R., Taylor, A., Navarre, B., Reddy, S. (2020). Circulating whole genome miRNA expression corresponds to progressive right ventricle enlargement and systolic dysfunction in adults with tetralogy of Fallot. PLOS ONE 15(11), e0241476. https://dx.doi.org/10.1371/journal.pone.0241476
 
-o	Featured in Stanford University School of Medicine SCOPE blog — “Tiny bits of RNA give window into adult congenital heart disease” https://scopeblog.stanford.edu/2020/11/16/tiny-bits-of-rna-give-window-into-adult-congenital-heart-disease-in-stanford-study/ 
-
 17.	Goodson, J.M., Weldy, C.S., MacDonald, J.W., Liu, Y, Bammler, T.K., Chien, W-M and Chin, M.T. (2017). In utero exposure to diesel exhaust particulates is associated with an altered cardiac transcriptional response to transverse aortic constriction and altered DNA methylation. The FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 2017:fj.201700032R. 
 
 18.	Liu, Y., Weldy, C. S., & Chin, M. T. (2016). Neonatal Diesel Exhaust Particulate Exposure Does Not Predispose Mice to Adult Cardiac Hypertrophy or Heart Failure. International Journal of Environmental Research and Public Health, 13(12), 1178. http://doi.org/10.3390/ijerph13121178 
@@ -82,5 +80,12 @@ o	Featured in Stanford University School of Medicine SCOPE blog — “Tiny bits
 
 ## Preprints
 
--Ramste, M. et al. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684.
+1.	Qin GT, Zhao Q, Fujita A, Damiani I, Easwaran M, Basu S, Gu W, Li DY, Worssam M, Palmisano B, Monteiro JP, Ramste M, Kundu R, Nguyen T, Park C, Weldy C, Cheng P, Kim JB. Aryl-Hydrocarbon receptor in smooth muscle cells protect against dioxin induced adverse remodeling of atherosclerosis. bioRxiv. 2024 DOI: 10.1101/2024.09.24.614572. https://www.biorxiv.org/content/10.1101/2024.09.24.614572v2 Submitted
+
+2.	Li, D. Y., Kundu, S., Cheng, P., Gu, W., Jackson, W., Zhao, Q., Nguyen, T., Worssam, M., Monteiro, J., Caceres, R., Dale, S., Palmisano, B., Weldy, C., Kundu, R., Kundaje, A., Wirka, R., Quertermous, T.. Vascular smooth muscle cell atherosclerosis trajectories characterized at single cell resolution identify causal transcriptomic and epigenomic mechanisms of disease risk. bioRxiv 2025.06.04.655863 (2025) doi:10.1101/2025.06.04.655863 (https://www.biorxiv.org/content/10.1101/2025.06.04.655863v1). 
+
+3.	Ramste, M., Weldy, C., Kundu, S., Zhao, Q., Li, D., Brand, K., Sharma, D., Ramste, A., Jagoda, E., Ray, J., Caceres, R., Galante, J., Gschwind, A., Lahtinen, N., Nguyen, T., Amrute, J., Park, C., Kim, J., Kaikonnen, M., Stitziel, N., Steinmetz, L., Kundaje, A., Engreitz, J., Quertermous, T. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684 (https://www.medrxiv.org/content/10.1101/2025.08.28.25334684v1).  
+
+4.	Damiani, I., Weldy, C. (co-first author), Zhao, Q., Solberg, E., Qin, G., Easwaran, M., Basu, S., Gu, W., Worssam, M., Monteiro, J., Zheng, S., Bahia, G., Kundu, R., Nguyen, T., Direnzo, E., Cheng, P., Kim, JB. Chronic Electronic Cigarette Exposure Promotes Atherosclerosis and Chondrogenic Modulation of Smooth Muscle Cells. bioRxiv doi: https://doi.org/10.1101/2025.09.13.675958 (2025). 
+
 
