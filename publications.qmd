@@ -5,12 +5,76 @@ title: "Publications"
 ## Selected publications
 
 -Weldy, C. S. et al. Smooth muscle expression of RNA editing enzyme ADAR1 controls activation of the RNA sensor MDA5 in atherosclerosis. Nat. Cardiovasc. Res. 1–17 (2025) doi:10.1038/s44161-025-00710-5.
+
 -Weldy, C. S. et al. Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci. Mol. Syst. Biol. 1–25 (2025) doi:10.1038/s44320-025-00140-2.
+
 -Weldy, C. S. & Ashley, E. A. Towards precision medicine in heart failure. Nat Rev Cardiol 1–18 (2021) doi:10.1038/s41569-021-00566-9.
-  
+
+
 
 ## Preprints
+
 -Ramste, M. et al. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684.
   
+## Publications
+
+1.	Zhao, Q., Pedroza, A., Sharma, D., Gu, W., Dalal, A., Weldy, CS., Jackson, W., Li, DY., Ryan, Y., Nguyen, T., Shad, R., Palmisano, B., Monteiro, J., Worssam, M., Berezowitz, A., Iyer, M., Shi, Huitong., Kundu, R., Limbu, L., Kim, JB., Kundaje, A., Fischbein, M., Wirka, R., Quertermous, T., Cheng, P. (2025). A cell and transcriptomic atlas of human arterial vasculature. Cell Genomics. PMID: 41086809, DOI: 10.1016/j.xgen.2025.101034
+
+2.	Weldy, C. S., Li, Q., Monteiro, J. P., Peters T.S., Guo, H., Galls, D., Gu, W., Cheng, P. P., Ramste, M., Li, D., Palmisano, B. P., Sharma, D., Worssam, M., Zhao, Q., Bhate, A., Kundu, R., Nguyen, T., Mokry, M., Miller C.L., van der Laan, S.W., Li, J. B., Quertermous, T. (2025). Smooth muscle cell expression of RNA editing enzyme ADAR1 controls activation of RNA sensor MDA5 in atherosclerosis. (2025). Nature Cardiovascular Research. 1-17, PMID: 40958051, doi: 10.1038/s44161-025-00710-5
+
+3.	Weldy, C.S., Kundu, S, Monteiro J, Gu W, Pedroza, A. J., Dalal, A. R., Worssam M., Palmisano, B., Zhao, Q., Sharma, D., Nguyen, T., Kundu, R., Fischbein, M. P., Engreitz, J., Kundaje, A.B., Cheng, P.P., Quertermous, T. (2025). Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci. Molecular Systems Biology. 1-25, PMID: 40931195, doi:10.1038/s44320-025-00140-2.
+
+4.	Damiani I, Solberg EH, Iyer M, Cheng P, Weldy CS*, Kim JB* (*Co-senior author).  Environmental pollutants and atherosclerosis: epigenetic mechanisms linking genetic risk and disease. Atherosclerosis. 2025. Feb 15:119131. doi: 10.1016/j.atherosclerosis.2025.119131. 
+
+5.	Wang Q, Tang TM, Youlton N, Weldy CS, Kenney AM, Ronen O, Hughes JW, Chin ET, Sutton SC, Agarwal A, Li X, Behr M, Kumbier K, Moravec CS, Tang WHW, Margulies KB, Cappola TP, Butte AJ, Arnaout RA, Brown JB, Priest JR, Parikh VN, Yu B, Ashley EA. Epistasis regulates genetic control of cardiac hypertrophy. Nature Cardiovascular Research. 4, 740–760 (2025).
+
+6.	Engreitz J, … Weldy, CS, … Samer, EK. Deciphering the impact of genomic variation on function. Nature. 2024. Sep;633(8028):47-57.
+
+7.	Kim D, Chu E, Keamy-Minor E, Paranjpe I, Tang W, O’Sullivan J, Desai Y, Liu M, Munsey E, Hecker K, Cuenco I, Kao B, Bacolor E, Bonnett C, Linder A, Lacar K, Robles N, Lamendola C, Smith A, Knowles J, Perez M, Kawana T, Sallam K, Weldy CS*, Wheeler M*, Parikh V*, Salisbury H*, Ashley E*. (*Co-senior author). One-Year Real-World Experience with Mavacamten and its Physiologic Effects on Obstructive Hypertrophic Cardiomyopathy. Frontiers in Cardiovascular Medicine. 2024. Aug 30:11:1429230. DOI: 10.3389/fcvm.2024.1429230. PMID: 39314763
+
+8.	Quertermous T, Li D, Weldy CS, Ramste MO, Sharma D, Monteiro JP, Gu W, Worssam M, Palmisano B, Park C, Cheng P. Genome wide genetic associations prioritize evaluation of causal mechanisms of atherosclerotic disease risk. Arteriosclerosis Thrombosis and Vascular Biology. 2024, Feb;44(2):323-327.
+
+9.	Weldy, C. S., Perez, M. V. From Founder to Function: can we unravel phenotype from genotype? Heart Rhythm. 2023;S1547-5271(23)02646-2.
+
+10.	Shi H, Nguyen T, Zhao Q, Cheng P, Sharma D, Kim H-J, Kim JB, Wirka R, Weldy CS, Monteiro JP, Quertermous T. Discovery of Transacting Long Noncoding RNAs That Regulate Smooth Muscle Cell Phenotype. Circ Res. 2023.
+
+11.	Kim H-J, Cheng P, Travisano S, Weldy C, Monteiro JP, Kundu R, Nguyen T, Sharma D, Shi H, Lin Y, Liu B, Haldar S, Jackson S, Quertermous T. Molecular mechanisms of coronary artery disease risk at the PDGFD locus. Nat Commun. 2023;14:847.
+
+12.	Navarre, B. M., Clouthier, K. L., Ji, X., Taylor, A., Weldy, C. S., Dubin, A., Reddy, S. miR Profile of Chronic Right Ventricular Pacing: a Pilot Study in Children with Congenital Complete Atrioventricular Block. J Cardiovasc Transl 1–13 (2022) doi:10.1007/s12265-022-10318-w.
+
+13.	Weldy, C. S., Murtha, R. & Kim, J. B. Dissecting the Genomics of Spontaneous Coronary Artery Dissection. Circulation Genom Precis Medicine 101161CIRCGEN122003867 (2022) doi:10.1161/circgen.122.003867.
+
+14.	Weldy, C. S. & Ashley, E. A. Towards precision medicine in heart failure. Nat Rev Cardiol 1–18 (2021) doi:10.1038/s41569-021-00566-9. 
+
+o	*Featured on the cover of the November 2021 edition of Nature Reviews Cardiology
+
+15.	Weldy, C. S. & Ashley, E. A. Mulibrey Nanism and the Real Time Use of Genome and Biobank Engines to Inform Clinical Care in an Ultrarare Disease. Circulation Genom Precis Medicine CIRCGEN121003430 (2021) doi:10.1161/circgen.121.003430.
+
+16.	Weldy, C., Syed, S., Amsallem, M., Hu, D., Ji, X., Punn, R., Taylor, A., Navarre, B., Reddy, S. (2020). Circulating whole genome miRNA expression corresponds to progressive right ventricle enlargement and systolic dysfunction in adults with tetralogy of Fallot. PLOS ONE 15(11), e0241476. https://dx.doi.org/10.1371/journal.pone.0241476
+
+o	Featured in Stanford University School of Medicine SCOPE blog — “Tiny bits of RNA give window into adult congenital heart disease” https://scopeblog.stanford.edu/2020/11/16/tiny-bits-of-rna-give-window-into-adult-congenital-heart-disease-in-stanford-study/ 
+
+17.	Goodson, J.M., Weldy, C.S., MacDonald, J.W., Liu, Y, Bammler, T.K., Chien, W-M and Chin, M.T. (2017). In utero exposure to diesel exhaust particulates is associated with an altered cardiac transcriptional response to transverse aortic constriction and altered DNA methylation. The FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 2017:fj.201700032R. 
+
+18.	Liu, Y., Weldy, C. S., & Chin, M. T. (2016). Neonatal Diesel Exhaust Particulate Exposure Does Not Predispose Mice to Adult Cardiac Hypertrophy or Heart Failure. International Journal of Environmental Research and Public Health, 13(12), 1178. http://doi.org/10.3390/ijerph13121178 
+
+19.	Hartman, M. E., Liu, Y., Zhu, W.-Z., Chien, W.-M., Weldy, C. S., Fishman, G. I., et al. (2014). Myocardial deletion of transcription factor CHF1/Hey2 results in altered myocyte action potential and mild conduction system expansion but does not alter conduction system function or promote spontaneous arrhythmias. The FASEB Journal : Official Publication of the Federation of American Societies for Experimental Biology, 28(7), 3007–3015. http://doi.org/10.1096/fj.14-251728 
+
+20.	Weldy, C. S., Liu, Y., Liggitt, H. D., & Chin, M. T. (2014). In Utero Exposure to Diesel Exhaust Air Pollution Promotes Adverse Intrauterine Conditions, Resulting in Weight Gain, Altered Blood Pressure, and Increased Susceptibility to Heart Failure in Adult Mice. PloS One, 9(2), e88582. http://doi.org/10.1371/journal.pone.0088582 
+
+21.	Weldy, C. S., Liu, Y., Chang, Y.-C., Medvedev, I. O., Fox, J. R., Larson, T. V., et al. (2013). In utero and early life exposure to diesel exhaust air pollution increases adult susceptibility to heart failure in mice. Particle and Fibre Toxicology, 10(1), 59. http://doi.org/10.1186/1743-8977-10-59 
+
+22.	Liu, Y., Chien, W.-M., Medvedev, I. O., Weldy, C. S., Luchtel, D. L., Rosenfeld, M. E., & Chin, M. T. (2013). Inhalation of diesel exhaust does not exacerbate cardiac hypertrophy or heart failure in two mouse models of cardiac hypertrophy. Particle and Fibre Toxicology, 10(1), 49. http://doi.org/10.1186/1743-8977-10-49 
+
+23.	Weldy, C. S., Luttrell, I. P., White, C. C., Morgan-Stevenson, V., Cox, D. P., Carosino, C. M., et al. (2013). Glutathione (GSH) and the GSH synthesis gene Gclm modulate plasma redox and vascular responses to acute diesel exhaust inhalation in mice. Inhalation Toxicology, 25(8), 444–454. http://doi.org/10.3109/08958378.2013.801004 
+
+24.	McConnachie, L. A., Botta, D., White, C. C., Weldy, C. S., Wilkerson, H.-W., Yu, J., et al. (2013). The Glutathione Synthesis Gene Gclm Modulates Amphiphilic Polymer-Coated CdSe/ZnS Quantum Dot-Induced Lung Inflammation in Mice. PloS One, 8(5), e64165. http://doi.org/10.1371/journal.pone.0064165 
+
+25.	Weldy, C. S., Luttrell, I. P., White, C. C., Morgan-Stevenson, V., Bammler, T. K., Beyer, R. P., et al. (2012). Glutathione (GSH) and the GSH synthesis gene Gclm modulate vascular reactivity in mice. Free Radical Biology and Medicine, 53(6), 1264–1278. http://doi.org/10.1016/j.freeradbiomed.2012.07.006 
+
+26.	Weldy, C. S., White, C. C., Wilkerson, H.-W., Larson, T. V., Stewart, J. A., Gill, S. E., et al. (2011). Heterozygosity in the glutathione synthesis gene Gclm increases sensitivity to diesel exhaust particulate induced lung inflammation in mice. Inhalation Toxicology, 23(12), 724–735. http://doi.org/10.3109/08958378.2011.608095 
+
+27.	Weldy, C. S., Wilkerson, H.-W., Larson, T. V., Stewart, J. A., & Kavanagh, T. J. (2011). DIESEL particulate exposed macrophages alter endothelial cell expression of eNOS, iNOS, MCP1, and glutathione synthesis genes. Toxicology in Vitro : an International Journal Published in Association with BIBRA, 25(8), 2064–2073. http://doi.org/10.1016/j.tiv.2011.08.008 
+
 
 
