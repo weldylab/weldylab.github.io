@@ -1,0 +1,20 @@
+---
+title: "Tiny bits of RNA give a new window into adult congenital heart disease"
+date: 2020-11-16
+description: "Stanford Medicine highlights research showing how microRNA profiles may help detect heart problems in adults born with tetralogy of Fallot."
+image: ../images/news/tiny-bits-rna-CHD.jpg
+---
+
+![](../images/news/tiny-bits-rna-CHD.jpg){fig-align="center" width=85%}
+
+Stanford Medicine featured Dr. Weldy's research showing that **tiny pieces of RNA (microRNAs)** in the blood hold clues to heart problems in adults born with tetralogy of Fallot, a common form of congenital heart disease. :contentReference[oaicite:0]{index=0}
+
+The study — published in *PLOS ONE* — measured microRNA expression in the bloodstream of adults who had surgical repair of tetralogy of Fallot and also received heart imaging. Researchers found that specific microRNA patterns correlated with **enlargement of the right ventricle**, a key sign of ventricular dysfunction not always fully captured by standard echocardiograms. 
+
+Because microRNAs regulate gene activity and can be measured noninvasively, the findings suggest a promising approach to **improve early detection** of right heart failure — especially in patients whose imaging results fall into ambiguous categories. 
+
+### Read the Stanford Medicine feature  
+[Tiny bits of RNA give window into adult congenital heart disease in Stanford study →](https://med.stanford.edu/news/insights/2020/11/tiny-bits-of-rna-give-window-into-adult-congenital-heart-disease-in-stanford-study.html)
+
+### Original publication
+- Weldy CS, et al. *PLOS ONE* (2020). MicroRNA profiles correlate with right ventricular enlargement in adults with tetralogy of Fallot. https://doi.org/10.1371/journal.pone.0241476
