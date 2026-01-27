@@ -53,3 +53,6 @@ A smooth muscle–specific RNA editing program regulates dsRNA sensing and infla
 
 ## News
 [See lab updates →](news/)
+
+## Featured news
+- **Nov 16, 2024:** Stanford Medicine highlights our RNA editing work. [Read →](news/2024-11-16-stanford-medicine-rna-editing.html)
