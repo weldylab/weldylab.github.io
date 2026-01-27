@@ -1,7 +1,7 @@
 ---
 title: "Tiny bits of RNA give a new window into adult congenital heart disease"
 date: 2020-11-16
-description: "Stanford Medicine highlights research showing how microRNA profiles may help detect heart problems in adults born with tetralogy of Fallot."
+description: "Stanford Medicine highlights research from Dr. Weldy showing how microRNA profiles may help detect heart problems in adults born with tetralogy of Fallot."
 image: ../images/news/tiny-bits-rna-CHD.jpg
 ---
 
