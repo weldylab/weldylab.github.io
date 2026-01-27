@@ -1,0 +1,11 @@
+---
+title: "News"
+listing:
+  contents: .
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+  page-size: 10
+---
+
+<!-- News posts will be listed automatically -->
