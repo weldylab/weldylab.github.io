@@ -9,7 +9,7 @@ page-layout: full
 :::
 
 ::: {.column width="60%"}
-# Weldy Lab
+# Weldy Lab | Genes RNA Hearts Medicine
 
 ## From genetic discovery to cardiovascular innovation
 
