@@ -1,18 +1,54 @@
 ---
-title: "Weldy Lab"
+title: ""
+page-layout: full
 ---
+
+::: {.columns .v-center}
+::: {.column width="40%"}
+![](images/WeldyLabLogo.jpg){fig-align="center" width=90%}
+:::
+
+::: {.column width="60%"}
+# Weldy Lab
 
 ## From genetic discovery to cardiovascular innovation
 
-We integrate human genetics with mechanistic biology to uncover causal pathways of cardiovascular disease and pioneer new therapeutic strategies.
+We integrate **human genetics** with mechanistic biology to uncover **causal pathways** of cardiovascular disease and pioneer new therapeutic strategies.
 
+[Research](research.qmd){.btn .btn-primary} [People](people.qmd){.btn .btn-outline-primary} [Join](join.qmd){.btn .btn-outline-secondary}
+:::
+:::
 
-### Areas of focus
+---
+
+## Featured publication
+
+::: {.columns}
+::: {.column width="30%"}
+[![](images/NatCVR_Cover.jpg){width=100%}](https://doi.org/10.1038/s44161-025-00710-5)
+:::
+
+::: {.column width="70%"}
+### Smooth muscle cell ADAR1 controls activation of RNA sensor MDA5 in atherosclerosis
+
+**Weldy CS**, et al. *Nature Cardiovascular Research* (2025)  
+DOI: 10.1038/s44161-025-00710-5
+
+A smooth muscle–specific RNA editing program regulates dsRNA sensing and inflammatory signaling in atherosclerosis, linking RNA biology to vascular disease mechanisms.
+
+[Read the paper →](https://doi.org/10.1038/s44161-025-00710-5)
+:::
+:::
+
+---
+
+## Areas of focus
 - Human genetics & causality
 - Vascular biology & site-specific mechanisms
 - RNA biology (A-to-I editing) and innate immune sensing
 - Single-cell and multi-omics approaches
 
-### News
-```{=html}
-<p><a href="./news/">See lab updates →</a></p>
+---
+
+## News
+[See lab updates →](news/)
