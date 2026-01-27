@@ -2,10 +2,10 @@
 title: "Stanford CVI story: developmental “memory” shapes arteries and disease risk"
 date: 2025-12-15
 description: "Stanford Cardiovascular Institute highlights research showing how arteries retain a developmental imprint that influences disease susceptibility."
-image: ../news/Covers.jpeg
+image: ../images/news/Covers.jpeg
 ---
 
-![](../news/Covers.jpeg){fig-align="center" width=85%}
+![](../images/news/Covers.jpeg){fig-align="center" width=85%}
 
 The Stanford Cardiovascular Institute (CVI) recently featured a compelling story highlighting work from the Weldy, Cheng, and Quertermous labs revealing that **arterial segments carry a molecular “memory” of their developmental origin**, and that this imprint shapes how arteries later respond to stress, injury, and disease. 
 
