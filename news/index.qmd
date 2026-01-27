@@ -3,9 +3,9 @@ title: "News"
 listing:
   contents: .
   sort: "date desc"
-  type: default
-  fields: [date, title, description]
+  type: grid
+  image-align: left
+  fields: [date, title, description, image]
   page-size: 10
 ---
 
-<!-- News posts will be listed automatically -->
