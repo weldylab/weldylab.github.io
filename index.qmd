@@ -23,7 +23,7 @@ We integrate **human genetics** with mechanistic biology to uncover **causal pat
 
 ## Featured publication
 
-::: {.columns}
+::: {.columns .v-center}
 ::: {.column width="30%" .cover-column}
 [![](images/NatCVR_Cover.jpg){width=100%}](https://doi.org/10.1038/s44161-025-00710-5)
 :::
