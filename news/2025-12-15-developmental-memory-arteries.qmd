@@ -11,11 +11,5 @@ The Stanford Cardiovascular Institute (CVI) recently featured published a compel
 
 The article *“How Developmental ‘Memory’ Shapes the Arteries, and the Diseases They Face”* explains how our two complementary studies (Zhao et al., Cell Genomics, 2025, Weldy et al., Molecular Systems Biology, 2025) — one mapping the transcriptional architecture of human arteries, and another characterizing the underlying chromatin landscape in animal models — uncover how **embryonic lineage influences adult vascular biology and disease vulnerability**. 
 
-The first study led by the laboratory of our collaborator Dr. Cheng created a detailed **single-cell and spatial atlas of the human arterial wall**, showing that although arterial architecture is broadly conserved, the **gene expression programs of smooth muscle cells, fibroblasts, and other component cells vary dramatically by region**, reflective of their embryonic origin. 
-
-Building on this, our work (Weldy et al., Molecular Systems Biology, 2025) examined **epigenomic patterns in mouse arteries** to demonstrate that **distinct chromatin accessibility landscapes** correspond to developmental lineage and likely contribute to persistent regional differences in disease risk. 
-
-Together, these findings suggest that the molecular history of an artery — its developmental “memory” — helps explain why **some vascular regions (e.g., coronary and carotid arteries) are more prone to atherosclerosis or aneurysm than others**. 
-
 ### Read the full Stanford CVI story  
 [How Developmental “Memory” Shapes the Arteries, and the Diseases They Face →](https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2025/developmental-memory.html)
