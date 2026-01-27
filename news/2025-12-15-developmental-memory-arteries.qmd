@@ -2,6 +2,7 @@
 title: "Stanford CVI story: developmental “memory” shapes arteries and disease risk"
 date: 2025-12-15
 description: "Stanford Cardiovascular Institute highlights research showing how arteries retain a developmental imprint that influences disease susceptibility."
+image: ../news/Covers.jpeg
 ---
 
 ![](../news/Covers.jpeg){fig-align="center" width=85%}
