@@ -1,18 +1,34 @@
-.
-├── _quarto.yml
-├── index.qmd
-├── research.qmd
-├── people.qmd
-├── publications.qmd
-├── join.qmd
-├── contact.qmd
-├── news/
-│   ├── _metadata.yml
-│   └── 2026-01-26-welcome.qmd
-├── people/
-│   ├── _metadata.yml
-│   ├── chad-weldy.qmd
-│   └── template-person.qmd
-└── .github/
-    └── workflows/
-        └── quarto-publish.yml
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Weldy Lab"
+  site-url: "https://weldylab.org"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: news/
+        text: News
+      - href: join.qmd
+        text: Join
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© Weldy Lab"
+    right:
+      - icon: github
+        href: https://github.com/
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
