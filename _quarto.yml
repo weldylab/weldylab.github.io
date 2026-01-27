@@ -1,0 +1,18 @@
+.
+├── _quarto.yml
+├── index.qmd
+├── research.qmd
+├── people.qmd
+├── publications.qmd
+├── join.qmd
+├── contact.qmd
+├── news/
+│   ├── _metadata.yml
+│   └── 2026-01-26-welcome.qmd
+├── people/
+│   ├── _metadata.yml
+│   ├── chad-weldy.qmd
+│   └── template-person.qmd
+└── .github/
+    └── workflows/
+        └── quarto-publish.yml
