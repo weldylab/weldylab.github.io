@@ -1,7 +1,8 @@
 ---
 title: "Chad Weldy, MD, PhD"
 subtitle: "Principal Investigator"
-affiliations: "Stanford University"
+affiliation: "Stanford University"
+description: "Stanford University"
 order: 1
 image: ../images/Weldy-Chad_13_Horiz.jpg
 ---
