@@ -11,6 +11,8 @@ page-layout: full
 ::: {.column width="60%"}
 # Weldy Lab | Genes · RNA · Hearts · Medicine
 
+# Stanford University | Division of Cardiovascular Medicine
+
 ## From genetic discovery to cardiovascular innovation
 
 We integrate **human genetics** with mechanistic biology to uncover **causal pathways** of cardiovascular disease and pioneer new therapeutic strategies.
