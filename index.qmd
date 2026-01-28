@@ -3,28 +3,46 @@ title: ""
 page-layout: full
 toc: false
 ---
+::: {.columns .v-center hero-split}
 
-```{=html}
-<div class="hero">
-  <img src="images/HEROimage.png" alt="Weldy Lab hero image" class="hero-img">
-  <div class="hero-overlay">
-    <div class="hero-kicker">Weldy Lab | Genes · RNA · Hearts · Medicine</div>
-    <div class="hero-tagline">Working to accelerate precision medicine through epigenetics and RNA editing</div>
+::: {.column width="50%"}
 
-    <div class="hero-buttons">
-      <a class="btn btn-primary" href="research.qmd">Research</a>
-      <a class="btn btn-outline-primary" href="people.qmd">People</a>
-      <a class="btn btn-outline-secondary" href="join.qmd">Join</a>
-    </div>
-  </div>
+<div class="hero-text">
+
+<div class="hero-kicker">
+Weldy Lab | Genes · RNA · Hearts · Medicine
+</div>
+
+<div class="hero-tagline">
+Working to accelerate precision medicine through epigenetics and RNA editing
+</div>
+
+<div class="hero-buttons">
+<a class="btn btn-primary" href="research.qmd">Research</a>
+<a class="btn btn-outline-primary" href="people.qmd">People</a>
+<a class="btn btn-outline-secondary" href="join.qmd">Join</a>
 </div>
 
 <div class="stanford-line">
-  <div class="stanford-text">Stanford University · Div. of Cardiovascular Medicine</div>
-  <img src="images/SUSig_StnfrdOnly_red.png" alt="Stanford University" class="stanford-logo">
+  <div class="stanford-text">
+    Stanford University · Div. of Cardiovascular Medicine
+  </div>
+  <img src="images/SUSig_StnfrdOnly_red.png"
+       alt="Stanford University"
+       class="stanford-logo">
 </div>
-```
 
+</div>
+
+:::
+
+::: {.column width="50%"}
+
+![](images/HEROimage.png){.hero-image}
+
+:::
+
+:::
 
 ---
 
