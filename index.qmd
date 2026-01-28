@@ -1,9 +1,10 @@
 ---
 title: ""
 page-layout: full
+toc: false
 ---
 
-<!-- HERO -->
+```{=html}
 <div class="hero">
   <img src="images/HEROimage.png" alt="Weldy Lab hero image" class="hero-img">
   <div class="hero-overlay">
@@ -18,11 +19,11 @@ page-layout: full
   </div>
 </div>
 
-<!-- Stanford affiliation line (kept, but now below the hero) -->
 <div class="stanford-line">
   <div class="stanford-text">Stanford University · Div. of Cardiovascular Medicine</div>
   <img src="images/SUSig_StnfrdOnly_red.png" alt="Stanford University" class="stanford-logo">
 </div>
+
 
 ---
 
