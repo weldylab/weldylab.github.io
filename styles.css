@@ -14,7 +14,7 @@
 }
 
 /* ================================
-   In-the-news vertical centering
+   Vertical centering in columns
    ================================ */
 
 /* Ensure columns can vertically center their contents */
@@ -27,7 +27,8 @@
   display: block;
 }
 
-/* Optional: tighten top margin on headings inside news blocks */
-.columns.v-center h3 {
+/* Remove top margin from the first heading in the text column
+   (fixes People page image centering) */
+.columns.v-center > .column h3:first-child {
   margin-top: 0;
 }
