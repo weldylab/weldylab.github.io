@@ -33,4 +33,4 @@ format:
     toc: true
     smooth-scroll: true
     css: styles.css
-    favicon: images/Weldy_favicon.png
+    favicon: images/favicon.png
