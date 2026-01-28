@@ -13,11 +13,11 @@ page-layout: full
 
 <div style="display:flex; flex-direction:column; gap:.35rem; margin-top:.35rem; margin-bottom:.75rem;">
   <div style="font-size:1.05rem; opacity:.85;">
-    Stanford University · Division of Cardiovascular Medicine
+    Stanford University · Div. of Cardiovascular Medicine
   </div>
   <img src="images/SUSig_StnfrdOnly_red.png"
        alt="Stanford University"
-       style="height:72px; width:auto;">
+       style="height:100px; width:auto;">
 </div>
 
 ## From genetic discovery to cardiovascular innovation
