@@ -3,6 +3,8 @@ title: ""
 page-layout: full
 toc: false
 ---
+
+
 ::: {.columns .v-center hero-split}
 
 ::: {.column width="50%"}
@@ -42,7 +44,6 @@ Working to accelerate precision medicine through epigenetics and RNA editing
 
 :::
 
-:::
 
 ---
 
