@@ -17,7 +17,7 @@ page-layout: full
   </div>
   <img src="images/SUSig_StnfrdOnly_red.png"
        alt="Stanford University"
-       style="height:100px; width:auto;">
+       style="height:72px; width:auto;">
 </div>
 
 ## From genetic discovery to cardiovascular innovation
