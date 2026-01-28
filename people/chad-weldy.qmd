@@ -2,14 +2,14 @@
 title: "Chad Weldy, MD, PhD"
 subtitle: "Principal Investigator"
 order: 1
-image: images/Weldy-Chad_13_Horiz.jpg
+image: ../images/Weldy-Chad_13_Horiz.jpg
 description: "Stanford University · Division of Cardiovascular Medicine"
 ---
 
 ::: {.columns .v-center}
 
 ::: {.column width="35%"}
-![](images/Weldy-Chad_13_Horiz.jpg){width=100% style="border-radius:10px;"}
+![](../images/Weldy-Chad_13_Horiz.jpg){width=100% style="border-radius:10px;"}
 :::
 
 ::: {.column width="65%"}
