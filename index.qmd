@@ -91,3 +91,22 @@ A smooth muscle–specific RNA editing program regulates dsRNA sensing and infla
 :::
 :::
 
+## Funding
+
+::: {.columns}
+::: {.column width="50%"}
+![](images/NIHlogo.png){style="max-height:110px; width:100%; object-fit:contain;"}
+:::
+::: {.column width="50%"}
+![](images/NHLBIlogo.png){style="max-height:110px; width:100%; object-fit:contain;"}
+:::
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+![](images/AHAlogo.png){style="max-height:110px; width:100%; object-fit:contain;"}
+:::
+::: {.column width="50%"}
+![](images/SU_Seal_Red.png){style="max-height:110px; width:100%; object-fit:contain;"}
+:::
+:::
