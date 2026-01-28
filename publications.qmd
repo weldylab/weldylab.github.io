@@ -28,13 +28,13 @@ title: "Publications"
 
 3.	**Weldy, C.S.**, Kundu, S, Monteiro J, Gu W, Pedroza, A. J., Dalal, A. R., Worssam M., Palmisano, B., Zhao, Q., Sharma, D., Nguyen, T., Kundu, R., Fischbein, M. P., Engreitz, J., Kundaje, A.B., Cheng, P.P., Quertermous, T. (2025). Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci. Molecular Systems Biology. 1-25, PMID: 40931195, doi:10.1038/s44320-025-00140-2.
 
-4.	Damiani I, Solberg EH, Iyer M, Cheng P, **Weldy CS** $, Kim JB$ ($Co-senior author).  Environmental pollutants and atherosclerosis: epigenetic mechanisms linking genetic risk and disease. Atherosclerosis. 2025. Feb 15:119131. doi: 10.1016/j.atherosclerosis.2025.119131. 
+4.	Damiani I, Solberg EH, Iyer M, Cheng P, **Weldy CS** •, Kim JB• (•Co-senior author).  Environmental pollutants and atherosclerosis: epigenetic mechanisms linking genetic risk and disease. Atherosclerosis. 2025. Feb 15:119131. doi: 10.1016/j.atherosclerosis.2025.119131. 
 
 5.	Wang Q, Tang TM, Youlton N, **Weldy CS**, Kenney AM, Ronen O, Hughes JW, Chin ET, Sutton SC, Agarwal A, Li X, Behr M, Kumbier K, Moravec CS, Tang WHW, Margulies KB, Cappola TP, Butte AJ, Arnaout RA, Brown JB, Priest JR, Parikh VN, Yu B, Ashley EA. Epistasis regulates genetic control of cardiac hypertrophy. Nature Cardiovascular Research. 4, 740–760 (2025).
 
 6.	Engreitz J, … **Weldy, CS**, … Samer, EK. Deciphering the impact of genomic variation on function. Nature. 2024. Sep;633(8028):47-57.
 
-7.	Kim D, Chu E, Keamy-Minor E, Paranjpe I, Tang W, O’Sullivan J, Desai Y, Liu M, Munsey E, Hecker K, Cuenco I, Kao B, Bacolor E, Bonnett C, Linder A, Lacar K, Robles N, Lamendola C, Smith A, Knowles J, Perez M, Kawana T, Sallam K, **Weldy CS** $, Wheeler M$, Parikh V$, Salisbury H$, Ashley E$. ($Co-senior author). One-Year Real-World Experience with Mavacamten and its Physiologic Effects on Obstructive Hypertrophic Cardiomyopathy. Frontiers in Cardiovascular Medicine. 2024. Aug 30:11:1429230. DOI: 10.3389/fcvm.2024.1429230. PMID: 39314763
+7.	Kim D, Chu E, Keamy-Minor E, Paranjpe I, Tang W, O’Sullivan J, Desai Y, Liu M, Munsey E, Hecker K, Cuenco I, Kao B, Bacolor E, Bonnett C, Linder A, Lacar K, Robles N, Lamendola C, Smith A, Knowles J, Perez M, Kawana T, Sallam K, **Weldy CS** •, Wheeler M•, Parikh V•, Salisbury H•, Ashley E•. (•Co-senior author). One-Year Real-World Experience with Mavacamten and its Physiologic Effects on Obstructive Hypertrophic Cardiomyopathy. Frontiers in Cardiovascular Medicine. 2024. Aug 30:11:1429230. DOI: 10.3389/fcvm.2024.1429230. PMID: 39314763
 
 8.	Quertermous T, Li D, **Weldy CS**, Ramste MO, Sharma D, Monteiro JP, Gu W, Worssam M, Palmisano B, Park C, Cheng P. Genome wide genetic associations prioritize evaluation of causal mechanisms of atherosclerotic disease risk. Arteriosclerosis Thrombosis and Vascular Biology. 2024, Feb;44(2):323-327.
 
@@ -84,6 +84,6 @@ title: "Publications"
 
 3.	Ramste, M., **Weldy, C.**, Kundu, S., Zhao, Q., Li, D., Brand, K., Sharma, D., Ramste, A., Jagoda, E., Ray, J., Caceres, R., Galante, J., Gschwind, A., Lahtinen, N., Nguyen, T., Amrute, J., Park, C., Kim, J., Kaikonnen, M., Stitziel, N., Steinmetz, L., Kundaje, A., Engreitz, J., Quertermous, T. Enhancer-targeting CRISPR screens at coronary artery disease loci suggest shared mechanisms of disease risk. medRxiv 2025.08.28.25334684 (2025) doi:10.1101/2025.08.28.25334684 (https://www.medrxiv.org/content/10.1101/2025.08.28.25334684v1).  
 
-4.	Damiani, I.$, **Weldy, C.** $ ($co-first author), Zhao, Q., Solberg, E., Qin, G., Easwaran, M., Basu, S., Gu, W., Worssam, M., Monteiro, J., Zheng, S., Bahia, G., Kundu, R., Nguyen, T., Direnzo, E., Cheng, P., Kim, JB. Chronic Electronic Cigarette Exposure Promotes Atherosclerosis and Chondrogenic Modulation of Smooth Muscle Cells. bioRxiv doi: https://doi.org/10.1101/2025.09.13.675958 (2025). 
+4.	Damiani, I.•, **Weldy, C.** • (•co-first author), Zhao, Q., Solberg, E., Qin, G., Easwaran, M., Basu, S., Gu, W., Worssam, M., Monteiro, J., Zheng, S., Bahia, G., Kundu, R., Nguyen, T., Direnzo, E., Cheng, P., Kim, JB. Chronic Electronic Cigarette Exposure Promotes Atherosclerosis and Chondrogenic Modulation of Smooth Muscle Cells. bioRxiv doi: https://doi.org/10.1101/2025.09.13.675958 (2025). 
 
 
