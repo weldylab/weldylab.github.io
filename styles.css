@@ -2,10 +2,32 @@
 .columns .cover-column {
   padding-right: 2.5rem !important;
 }
+
+/* People + News listing thumbnails */
 .quarto-listing .listing-image img {
   max-width: 140px;
   border-radius: 6px;
 }
+
 .quarto-listing .listing-item {
   padding-bottom: 1.5rem;
+}
+
+/* ================================
+   In-the-news vertical centering
+   ================================ */
+
+/* Ensure columns can vertically center their contents */
+.columns.v-center {
+  align-items: center;
+}
+
+/* Prevent image baseline alignment issues */
+.columns.v-center img {
+  display: block;
+}
+
+/* Optional: tighten top margin on headings inside news blocks */
+.columns.v-center h3 {
+  margin-top: 0;
 }
