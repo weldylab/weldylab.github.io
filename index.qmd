@@ -74,8 +74,8 @@ A smooth muscle–specific RNA editing program regulates dsRNA sensing and infla
 ## Affiliations
 
 ::: {.affiliations-grid}
-![](images/Stanfordlogo.jpg){.affiliation-logo alt="Stanford University"}
-![](images/SOMlogo.jpg){.affiliation-logo alt="Stanford Medicine"}
+![](images/Stanfordlogo.png){.affiliation-logo alt="Stanford University"}
+![](images/SOMlogo.png){.affiliation-logo alt="Stanford Medicine"}
 ![](images/CVIlogo.jpeg){.affiliation-logo alt="Stanford Cardiovascular Institute"}
 ![](images/SCICDlogo.jpg){.affiliation-logo alt="Stanford Center for Inherited Cardiovascular Disease"}
 :::
