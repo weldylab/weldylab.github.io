@@ -4,11 +4,11 @@ page-layout: full
 ---
 
 ::: {.columns .v-center}
-::: {.column width="40%"}
-![](images/WeldyLabLogo.jpg){fig-align="center" width=90%}
+::: {.column width="45%"}
+![](images/WeldyLabLogo.jpg){fig-align="center" width=100%}
 :::
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 # Weldy Lab | Genes · RNA · Hearts · Medicine
 
 <div style="display:flex; flex-direction:column; gap:.35rem; margin-top:.35rem; margin-bottom:.75rem;">
