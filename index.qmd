@@ -23,6 +23,7 @@ toc: false
   <div class="stanford-text">Stanford University · Div. of Cardiovascular Medicine</div>
   <img src="images/SUSig_StnfrdOnly_red.png" alt="Stanford University" class="stanford-logo">
 </div>
+```
 
 
 ---
