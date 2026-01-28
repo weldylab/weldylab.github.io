@@ -34,5 +34,5 @@ across developmental origins and disease states.
 
 ### Contact
 - Email: weldyc@stanford.edu
-- X: https://x.com/ChadSWeldy
-- Bluesky: https://bsky.app/profile/chadweldy.bsky.social
+- X: <https://x.com/ChadSWeldy>
+- Bluesky: <https://bsky.app/profile/chadweldy.bsky.social>
