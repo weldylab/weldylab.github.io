@@ -2,7 +2,7 @@
 title: "Chad Weldy, MD, PhD"
 subtitle: "Principal Investigator"
 order: 1
-image: ../images/Weldy-Chad_13_Horiz.jpg
+image: images/Weldy-Chad_13_Horiz.jpg
 description: "Stanford University · Division of Cardiovascular Medicine"
 ---
 
