@@ -11,13 +11,22 @@ page-layout: full
 ::: {.column width="60%"}
 # Weldy Lab | Genes · RNA · Hearts · Medicine
 
-# Stanford University | Division of Cardiovascular Medicine
+<div style="display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-top:.35rem; margin-bottom:.75rem;">
+  <div style="font-size:1.05rem; opacity:.85;">
+    Stanford University · Division of Cardiovascular Medicine
+  </div>
+  <img src="images/SUSig_StnfrdOnly_red.png"
+       alt="Stanford University"
+       style="height:44px; width:auto;">
+</div>
 
 ## From genetic discovery to cardiovascular innovation
 
 We integrate **human genetics** with mechanistic biology to uncover **causal pathways** of cardiovascular disease and pioneer new therapeutic strategies.
 
-[Research](research.qmd){.btn .btn-primary} [People](people.qmd){.btn .btn-outline-primary} [Join](join.qmd){.btn .btn-outline-secondary}
+[Research](research.qmd){.btn .btn-primary}
+[People](people.qmd){.btn .btn-outline-primary}
+[Join](join.qmd){.btn .btn-outline-secondary}
 :::
 :::
 
@@ -42,7 +51,6 @@ A smooth muscle–specific RNA editing program regulates dsRNA sensing and infla
 :::
 :::
 
-
 ---
 
 ## Areas of focus
@@ -57,5 +65,9 @@ A smooth muscle–specific RNA editing program regulates dsRNA sensing and infla
 [See lab updates →](news/)
 
 ## Featured news
-- **Dec 15, 2025:** Stanford CVI highlights how arteries retain a developmental “memory” that shapes disease susceptibility. [Read →](news/2025-12-15-developmental-memory-arteries.html)
-- **Nov 16, 2024:** Stanford Medicine highlights our RNA editing work. [Read →](news/2024-11-16-stanford-medicine-rna-editing.html)
+- **Dec 15, 2025:** Stanford CVI highlights how arteries retain a developmental “memory” that shapes disease susceptibility.  
+  [Read →](news/2025-12-15-developmental-memory-arteries.html)
+
+- **Nov 16, 2024:** Stanford Medicine highlights our RNA editing work.  
+  [Read →](news/2024-11-16-stanford-medicine-rna-editing.html)
+
