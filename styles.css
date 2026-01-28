@@ -60,3 +60,85 @@
     max-height: 95px;
   }
 }
+/* ================================
+   Homepage hero
+   ================================ */
+
+.hero {
+  position: relative;
+  width: 100%;
+  border-radius: 18px;
+  overflow: hidden;
+  margin-bottom: 1.25rem;
+}
+
+.hero-img {
+  width: 100%;
+  height: 420px;          /* adjust taller/shorter */
+  object-fit: cover;
+  display: block;
+  filter: saturate(1.05);
+}
+
+/* dark gradient so text is readable */
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.75rem;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,0.55),
+    rgba(0,0,0,0.20),
+    rgba(0,0,0,0.05)
+  );
+  color: white;
+}
+
+.hero-kicker {
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  margin-bottom: .35rem;
+}
+
+.hero-tagline {
+  font-size: 1.05rem;
+  opacity: 0.95;
+  max-width: 52rem;
+  margin-bottom: 1rem;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: .6rem;
+  flex-wrap: wrap;
+}
+
+/* Stanford line under hero */
+.stanford-line {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  margin-top: .25rem;
+  margin-bottom: 1.25rem;
+}
+
+.stanford-text {
+  font-size: 1.05rem;
+  opacity: .85;
+}
+
+.stanford-logo {
+  height: 110px;     /* you can keep 120 if you prefer */
+  width: auto;
+}
+
+/* Mobile tweaks */
+@media (max-width: 700px) {
+  .hero-img { height: 300px; }
+  .hero-overlay { padding: 1.25rem; }
+  .hero-kicker { font-size: 1.15rem; }
+}
