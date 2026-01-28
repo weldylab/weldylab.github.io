@@ -28,7 +28,7 @@ page-layout: full
 
 ## From genetic discovery to cardiovascular innovation
 
-We integrate **human genetics** with mechanistic biology to uncover **causal pathways** of cardiovascular disease and pioneer new therapeutic strategies.
+We integrate human genetics with mechanistic biology to uncover causal pathways of cardiovascular disease and pioneer new therapeutic strategies.
 
 [Research](research.qmd){.btn .btn-primary}
 [People](people.qmd){.btn .btn-outline-primary}
@@ -38,7 +38,24 @@ We integrate **human genetics** with mechanistic biology to uncover **causal pat
 
 ---
 
-## Featured publication
+## Featured publications
+
+::: {.columns .v-center}
+::: {.column width="30%" .cover-column}
+[![](images/MolecularSysBio_Cover.jpg){width=100%}](https://doi.org/10.1038/s44320-025-00140-2)
+:::
+
+::: {.column width="70%"}
+### Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci
+
+**Weldy CS**, et al. *Molecular Systems Biology* (2025)  
+DOI: 10.1038/s44320-025-00140-2
+
+Single-cell epigenomic profiling reveals how developmental origin shapes vascular cell states and maps coronary artery disease risk loci to specific smooth muscle and endothelial programs.
+
+[Read the paper →](https://doi.org/10.1038/s44320-025-00140-2)
+:::
+:::
 
 ::: {.columns .v-center}
 ::: {.column width="30%" .cover-column}
