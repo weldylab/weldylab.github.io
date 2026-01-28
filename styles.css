@@ -72,12 +72,30 @@
   margin-bottom: 1.25rem;
 }
 
-.hero-img {
+/* Split hero image */
+.hero-img-split {
   width: 100%;
-  height: 420px;          /* adjust taller/shorter */
+  max-height: 460px;
   object-fit: cover;
+  border-radius: 18px;
   display: block;
-  filter: saturate(1.05);
+}
+
+/* Ensure the split layout actually behaves like two columns */
+.hero-split {
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;              /* allows stacking on small screens */
+}
+
+@media (max-width: 900px) {
+  .hero-split {
+    flex-direction: column;
+  }
+  .hero-img-split {
+    max-height: 320px;
+  }
 }
 
 /* dark gradient so text is readable */
