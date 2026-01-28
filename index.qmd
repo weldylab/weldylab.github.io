@@ -11,7 +11,7 @@ page-layout: full
 ::: {.column width="60%"}
 # Weldy Lab | Genes · RNA · Hearts · Medicine
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-top:.35rem; margin-bottom:.75rem;">
+<div style="display:flex; flex-direction:column; gap:.35rem; margin-top:.35rem; margin-bottom:.75rem;">
   <div style="font-size:1.05rem; opacity:.85;">
     Stanford University · Division of Cardiovascular Medicine
   </div>
