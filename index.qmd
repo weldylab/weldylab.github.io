@@ -35,8 +35,6 @@ We integrate human genetics with mechanistic biology to uncover causal pathways 
 [Research](research.qmd){.btn .btn-primary}
 [People](people.qmd){.btn .btn-outline-primary}
 [Join](join.qmd){.btn .btn-outline-secondary}
-:::
-:::
 
 ---
 
