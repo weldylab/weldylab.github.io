@@ -35,8 +35,8 @@ We define how **developmental origin** and **vascular bed** shape cell states, e
 ![](images/research/pillar-crispri.jpg){width=100% fig-align="center"}
 :::
 ::: {.column width="70%"}
-### 3) Functional genomics for CAD genes in human CASMCs
-We use **CRISPRi screening** with **targeted Perturb-seq (TAP-seq)** to map transcriptional networks of ISG activation and dsRNA sensing in human coronary artery smooth muscle cells.
+### 3) Functional genomics for mapping transcriptional network of dsRNA sensing and innate immune activation
+We use **CRISPRi screening** with **targeted Perturb-seq (TAP-seq)** to map transcriptional networks of interferon stimulated gene (ISG) activation and dsRNA sensing in human coronary artery smooth muscle cells.
 :::
 :::
 
