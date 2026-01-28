@@ -3,22 +3,28 @@ title: ""
 page-layout: full
 ---
 
-::: {.columns .v-center}
-::: {.column width="40%"}
-![](images/WeldyLabLogo.jpg){fig-align="center" style="width:90%"}
-:::
+<!-- HERO -->
+<div class="hero">
+  <img src="images/HEROimage.png" alt="Weldy Lab hero image" class="hero-img">
+  <div class="hero-overlay">
+    <div class="hero-kicker">Weldy Lab | Genes · RNA · Hearts · Medicine</div>
+    <div class="hero-tagline">Working to accelerate precision medicine through epigenetics and RNA editing</div>
 
-::: {.column width="60%"}
-# Weldy Lab | Genes · RNA · Hearts · Medicine
-
-<div style="display:flex; flex-direction:column; gap:.35rem; margin-top:.35rem; margin-bottom:.75rem;">
-  <div style="font-size:1.05rem; opacity:.85;">
-    Stanford University · Div. of Cardiovascular Medicine
+    <div class="hero-buttons">
+      <a class="btn btn-primary" href="research.qmd">Research</a>
+      <a class="btn btn-outline-primary" href="people.qmd">People</a>
+      <a class="btn btn-outline-secondary" href="join.qmd">Join</a>
+    </div>
   </div>
-  <img src="images/SUSig_StnfrdOnly_red.png"
-       alt="Stanford University"
-       style="height:120px; width:auto;">
 </div>
+
+<!-- Stanford affiliation line (kept, but now below the hero) -->
+<div class="stanford-line">
+  <div class="stanford-text">Stanford University · Div. of Cardiovascular Medicine</div>
+  <img src="images/SUSig_StnfrdOnly_red.png" alt="Stanford University" class="stanford-logo">
+</div>
+
+---
 
 ## From genetic discovery to cardiovascular innovation
 
