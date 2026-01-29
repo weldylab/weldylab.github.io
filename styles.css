@@ -142,8 +142,10 @@
 
 /* Tagline words */
 .hero-subtitle {
-  color: #9aa0a6;   /* light gray */
-  font-weight: 500;
+  color: #9aa0a6;
+  font-size: 0.85em;
+  font-weight: 400;
+  letter-spacing: 0.4px;
 }
 
 .hero-tagline {
