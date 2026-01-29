@@ -149,8 +149,9 @@
 }
 
 .stanford-logo {
-  height: 110px;     /* you can keep 120 if you prefer */
+  height: 70px;     /* try 60–80 */
   width: auto;
+  max-width: 240px; /* keeps it from stretching */
 }
 
 /* Mobile tweaks */
