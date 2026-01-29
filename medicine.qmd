@@ -4,7 +4,7 @@ title: "Medicine"
 
 ::: {.columns .v-center}
 
-::: {.column width="65%"}
+::: {.column width="60%"}
 
 ## Clinical focus
 
@@ -17,7 +17,7 @@ He provides clinical care through Stanford’s Center for Inherited Cardiovascul
 
 :::
 
-::: {.column width="35%"}
+::: {.column width="40%"}
 
 ![](images/SCICDlogo.jpg){.medicine-logo}
 
