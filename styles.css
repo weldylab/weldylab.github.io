@@ -188,3 +188,10 @@
   .hero-overlay { padding: 1.25rem; }
   .hero-kicker { font-size: 1.15rem; }
 }
+
+/* Medicine page logo alignment */
+.medicine-logo {
+  display: block;
+  max-width: 280px;
+  margin: 2.5rem auto 0 auto;  /* top | left/right | bottom */
+}
