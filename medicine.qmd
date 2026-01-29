@@ -1,0 +1,70 @@
+---
+title: "Medicine"
+---
+
+## Clinical focus
+
+Dr. Chad Weldy is a cardiologist with specialized expertise in the care of patients and families affected by inherited cardiovascular disorders, including cardiomyopathies, arrhythmia syndromes, and rare genetic heart diseases.
+
+He provides clinical care through **Stanford’s Center for Inherited Cardiovascular Disease (SCICD)**, where he trained under Dr. Euan Ashley and works within a multidisciplinary program integrating cardiovascular genetics, advanced imaging, and precision medicine.
+
+As a physician-scientist, Dr. Weldy bridges clinical cardiology and human genetics, with the goal of translating genomic discovery into improved diagnosis, risk stratification, and treatment for patients with inherited heart disease.
+
+🔗 **Stanford Center for Inherited Cardiovascular Disease**  
+<https://med.stanford.edu/familyheart.html>
+
+---
+
+## Precision medicine and inherited heart disease
+
+Dr. Weldy’s clinical and academic work focuses on understanding how genetic variation influences cardiovascular phenotypes, disease progression, and treatment response. His research and clinical scholarship emphasize:
+
+- Genotype-phenotype relationships in inherited cardiomyopathies  
+- Clinical implementation of genetic testing and variant interpretation  
+- Translational pathways from human genetics to patient-specific therapy  
+- Integration of biobanks, electronic health records, and molecular data in clinical care  
+
+This work informs a precision-medicine approach to cardiovascular disease, particularly in patients with complex or rare inherited conditions.
+
+---
+
+## Selected clinical and translational publications
+
+- **Kim D**, Chu E, Keamy-Minor E, Paranjpe I, Tang W, O’Sullivan J, Desai Y, Liu M, Munsey E, Hecker K, Cuenco I, Kao B, Bacolor E, Bonnett C, Linder A, Lacar K, Robles N, Lamendola C, Smith A, Knowles J, Perez M, Kawana T, Sallam K, **Weldy CS**•, Wheeler M•, Parikh V•, Salisbury H•, Ashley E•.  
+  *One-Year Real-World Experience with Mavacamten and its Physiologic Effects on Obstructive Hypertrophic Cardiomyopathy.*  
+  **Frontiers in Cardiovascular Medicine** (2024).  
+  DOI: 10.3389/fcvm.2024.1429230 · PMID: 39314763  
+  •Co-senior author
+
+- **Weldy CS**, Perez MV.  
+  *From Founder to Function: Can We Unravel Phenotype from Genotype?*  
+  **Heart Rhythm** (2023).
+
+- **Weldy CS**, Murtha R, Kim JB.  
+  *Dissecting the Genomics of Spontaneous Coronary Artery Dissection.*  
+  **Circulation: Genomic and Precision Medicine** (2022).  
+  DOI: 10.1161/circgen.122.003867
+
+- **Weldy CS**, Ashley EA.  
+  *Towards Precision Medicine in Heart Failure.*  
+  **Nature Reviews Cardiology** (2021).  
+  DOI: 10.1038/s41569-021-00566-9
+
+- **Weldy CS**, Ashley EA.  
+  *Mulibrey Nanism and the Real-Time Use of Genome and Biobank Engines to Inform Clinical Care in an Ultrarare Disease.*  
+  **Circulation: Genomic and Precision Medicine** (2021).  
+  DOI: 10.1161/circgen.121.003430
+
+---
+
+## Clinical care and referrals
+
+Patients are seen through Stanford’s inherited cardiovascular disease programs. Referrals typically involve:
+
+- Suspected or confirmed inherited cardiomyopathy  
+- Family history of sudden cardiac death or inherited arrhythmia  
+- Genotype-positive individuals requiring clinical surveillance  
+- Integration of genetic testing into cardiovascular care  
+
+For clinical inquiries or referrals, please visit the  
+🔗 <https://med.stanford.edu/familyheart.html>
