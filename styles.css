@@ -72,31 +72,30 @@
   margin-bottom: 1.25rem;
 }
 
-/* Split hero image */
-.hero-img-split {
-  width: 100%;
-  max-height: 460px;
-  object-fit: cover;
-  border-radius: 18px;
-  display: block;
-}
-
-/* Ensure the split layout actually behaves like two columns */
+/* Force the hero split container to be side-by-side */
 .hero-split {
+  display: flex;              /* <-- THIS is what you're missing */
+  align-items: center;
   gap: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 2rem;
-  flex-wrap: wrap;              /* allows stacking on small screens */
 }
 
+/* Make each side take half the row */
+.hero-split > .column {
+  flex: 1 1 0;
+  min-width: 0;               /* prevents weird overflow */
+}
+
+/* Mobile: stack */
 @media (max-width: 900px) {
   .hero-split {
     flex-direction: column;
-  }
-  .hero-img-split {
-    max-height: 320px;
+    align-items: stretch;
   }
 }
+
+
 
 /* dark gradient so text is readable */
 .hero-overlay {
