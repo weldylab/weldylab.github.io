@@ -157,7 +157,7 @@
 }
 
 .stanford-logo {
-  height: 70px;     /* try 60–80 */
+  height: 100px;     /* try 60–80 */
   width: auto;
   max-width: 240px; /* keeps it from stretching */
 }
