@@ -8,11 +8,9 @@ title: "Medicine"
 
 ## Clinical focus
 
-Dr. Chad Weldy is a cardiologist with specialized expertise in the care of patients and families affected by **inherited cardiovascular disorders**, including cardiomyopathies, arrhythmia syndromes, and rare genetic heart diseases.
+Dr. Chad Weldy is a cardiologist with specialized expertise in the care of patients and families affected by inherited cardiovascular disorders, including cardiomyopathies, arrhythmia syndromes, and rare genetic heart diseases.
 
-He provides clinical care through **Stanford’s Center for Inherited Cardiovascular Disease (SCICD)**, where he trained under Dr. Euan Ashley and works within a multidisciplinary program integrating cardiovascular genetics, advanced imaging, and precision medicine.
-
-As a physician-scientist, Dr. Weldy bridges **clinical cardiology and human genetics**, with the goal of translating genomic discovery into improved diagnosis, risk stratification, and treatment for patients with inherited heart disease.
+He provides clinical care through Stanford’s Center for Inherited Cardiovascular Disease (SCICD), where he trained under Dr. Euan Ashley and works within a multidisciplinary program integrating cardiovascular genetics, advanced imaging, and precision medicine.
 
 🔗 **Stanford Center for Inherited Cardiovascular Disease**  
 <https://med.stanford.edu/familyheart.html>
