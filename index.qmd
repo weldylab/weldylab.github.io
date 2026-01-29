@@ -39,7 +39,7 @@ toc: false
 
   <div class="column">
     <img
-      src="images/HEROimage.png"
+      src="images/WeldyLabLogo.jpg"
       alt="Weldy Lab hero image"
       class="hero-img-split">
   </div>
