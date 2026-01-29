@@ -2,7 +2,7 @@
 title: "Behind the science: How gene–gene interactions shape heart disease risk"
 date: 2026-01-23
 categories: ["News", "Genetics", "Cardiovascular"]
-image: images/news/AshleyNews.png
+image: images/news/AshleyNews.jpg
 ---
 
 A recent *Stanford Medicine* feature highlights research from the Dr. Euan Ashley lab for which Dr. Weldy is co-author, uncovering how **epistasis — interactions between pairs of genes — contributes to inherited forms of heart disease**, moving beyond traditional single-variant genetic models.
