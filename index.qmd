@@ -16,7 +16,7 @@ toc: false
       </div>
 
       <div class="hero-tagline">
-        Working to accelerate precision medicine through epigenetics and RNA editing
+        Accelerating precision medicine through epigenetics and RNA editing
       </div>
 
       <div class="hero-buttons">
@@ -27,7 +27,7 @@ toc: false
 
       <div class="stanford-line">
         <div class="stanford-text">
-          Stanford University · Div. of Cardiovascular Medicine
+          Stanford University · Division of Cardiovascular Medicine
         </div>
         <img
           src="images/SUSig_StnfrdOnly_red.png"
