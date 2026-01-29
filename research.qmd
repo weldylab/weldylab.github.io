@@ -4,7 +4,7 @@ title: "Research"
 
 ## Overview
 
-We leverage **human genetics** to identify causal mechanisms of cardiovascular disease, then combine **molecular biology**, **single-cell multi-omics**, and **mouse models** to define how risk variants act in vascular cells—especially **coronary artery smooth muscle**.
+We leverage human genetics to identify causal mechanisms of cardiovascular disease, then combine molecular biology, single-cell multi-omics, and mouse models to define how risk variants act in vascular cells—especially coronary artery smooth muscle.
 
 ---
 
@@ -16,7 +16,7 @@ We leverage **human genetics** to identify causal mechanisms of cardiovascular d
 :::
 ::: {.column width="70%"}
 ### 1) ADAR1 RNA editing and dsRNA sensing in vascular disease
-We study smooth muscle–specific **ADAR1-mediated RNA editing**, dsRNA accumulation, and activation of **MDA5 (IFIH1)** in atherosclerosis and vascular calcification.
+We study smooth muscle–specific ADAR1-mediated RNA editing, dsRNA accumulation, and activation of MDA5 (IFIH1) in atherosclerosis and vascular calcification.
 :::
 :::
 
@@ -26,7 +26,7 @@ We study smooth muscle–specific **ADAR1-mediated RNA editing**, dsRNA accumula
 :::
 ::: {.column width="70%"}
 ### 2) Vascular-bed specificity at single-cell resolution
-We define how **developmental origin** and **vascular bed** shape cell states, enhancers, and genetic risk mechanisms across human vascular disease.
+We define how developmental origin and vascular bed shape cell states, enhancers, and genetic risk mechanisms across human vascular disease.
 :::
 :::
 
@@ -36,7 +36,7 @@ We define how **developmental origin** and **vascular bed** shape cell states, e
 :::
 ::: {.column width="70%"}
 ### 3) Functional genomics for mapping transcriptional network of dsRNA sensing and innate immune activation
-We use **CRISPRi screening** with **targeted Perturb-seq (TAP-seq)** to map transcriptional networks of interferon stimulated gene (ISG) activation and dsRNA sensing in human coronary artery smooth muscle cells.
+We use CRISPRi screening with targeted Perturb-seq (TAP-seq) to map transcriptional networks of interferon stimulated gene (ISG) activation and dsRNA sensing in human coronary artery smooth muscle cells.
 :::
 :::
 
