@@ -10,8 +10,10 @@ We welcome inquiries from:
 - Clinician-scientist trainees
 
 ## How to apply
-Email a brief note + CV to: Chad at weldyc@stanford.edu 
-Include interests, relevant experience, and what excites you about the lab’s direction.
+Email a brief note and CV to **weldyc@stanford.edu**.  
+Please include your interests, relevant experience, and what excites you about the lab’s direction.
 
----
-[![](images/stanford-sunset_0.jpg){width=100%}]
+![](images/stanford-sunset_0.jpg){
+  width=100%
+  style="border-radius:16px; margin-top:2rem;"
+}
