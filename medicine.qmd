@@ -42,7 +42,7 @@ This work informs a precision-medicine approach to cardiovascular disease, parti
 
 ## Selected clinical and translational publications
 
-- **Kim D**, Chu E, Keamy-Minor E, Paranjpe I, Tang W, O’Sullivan J, Desai Y, Liu M, Munsey E, Hecker K, Cuenco I, Kao B, Bacolor E, Bonnett C, Linder A, Lacar K, Robles N, Lamendola C, Smith A, Knowles J, Perez M, Kawana T, Sallam K, **Weldy CS**•, Wheeler M•, Parikh V•, Salisbury H•, Ashley E•.  
+- Kim D, Chu E, Keamy-Minor E, Paranjpe I, Tang W, O’Sullivan J, Desai Y, Liu M, Munsey E, Hecker K, Cuenco I, Kao B, Bacolor E, Bonnett C, Linder A, Lacar K, Robles N, Lamendola C, Smith A, Knowles J, Perez M, Kawana T, Sallam K, **Weldy CS**•, Wheeler M•, Parikh V•, Salisbury H•, Ashley E•.  
   *One-Year Real-World Experience with Mavacamten and its Physiologic Effects on Obstructive Hypertrophic Cardiomyopathy.*  
   **Frontiers in Cardiovascular Medicine** (2024).  <https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2024.1429230/full>
   DOI: 10.3389/fcvm.2024.1429230 · PMID: 39314763  
