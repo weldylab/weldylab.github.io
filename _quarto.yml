@@ -5,6 +5,9 @@ project:
 website:
   title: "Weldy Lab"
   site-url: "https://weldylab.org"
+
+  google-analytics: "G-EVBRMBPE47"
+
   navbar:
     left:
       - href: index.qmd
@@ -23,6 +26,7 @@ website:
         text: Join
       - href: contact.qmd
         text: Contact
+
   page-footer:
     left: "© Weldy Lab"
     right:
