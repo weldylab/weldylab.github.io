@@ -1,0 +1,17 @@
+---
+title: "Mounjaro shows heart-protective benefit compared with Trulicity in large trial, Dr. Weldy quoted"
+date: 2025-07-31
+categories: ["News", "Cardiovascular", "Clinical Trials"]
+image: ../images/news/mounjaro-trial-thumb.jpg
+---
+
+In a major head-to-head clinical trial funded by Eli Lilly, the newer diabetes drug Mounjaro (tirzepatide) demonstrated a greater heart-protective effect compared with the older GLP-1 therapy Trulicity (dulaglutide) in patients with type 2 diabetes and high cardiovascular risk.
+
+The study, which included more than 13,000 patients across multiple countries, showed that Mounjaro reduced the risk of major adverse cardiovascular events — such as heart attack, stroke, or cardiovascular death — by about 8 % more than Trulicity. Patients treated with Mounjaro also experienced a 16 % lower risk of death from any cause compared with those on Trulicity. 
+
+Stanford cardiologist **Dr. Chad Weldy** commented that the new data “may prompt him to recommend switching from Trulicity to Mounjaro, at least for patients with type 2 diabetes and obesity or heart issues,” while noting that patient preferences, insurance coverage, and tolerability will continue to influence treatment decisions.
+
+These results, the largest and longest trial yet for Mounjaro, may support expanded cardiovascular indications and inform clinical practice decisions for managing cardiovascular risk in people with diabetes.
+
+**Read the original Reuters article →**  
+<https://www.reuters.com/business/healthcare-pharmaceuticals/mounjaro-appears-more-heart-protective-than-trulicity-trial-eli-lilly-diabetes-2025-07-31/>
