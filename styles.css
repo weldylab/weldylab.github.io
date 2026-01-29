@@ -123,10 +123,27 @@
 }
 
 .hero-kicker {
-  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  font-size: clamp(1.7rem, 3vw, 2.3rem);
   font-weight: 700;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.35px;
   margin-bottom: 0.5rem;
+  line-height: 1.25;
+}
+
+/* Main lab name */
+.hero-title {
+  color: #0b3c6d;   /* Stanford-ish dark blue */
+}
+
+/* Separator */
+.hero-sep {
+  color: #9aa0a6;   /* subtle gray */
+}
+
+/* Tagline words */
+.hero-subtitle {
+  color: #9aa0a6;   /* light gray */
+  font-weight: 500;
 }
 
 .hero-tagline {
