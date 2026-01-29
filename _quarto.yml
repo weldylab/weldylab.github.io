@@ -13,6 +13,8 @@ website:
         text: Research
       - href: people.qmd
         text: People
+      - href: medicine.qmd
+        text: Medicine
       - href: publications.qmd
         text: Publications
       - href: news/
