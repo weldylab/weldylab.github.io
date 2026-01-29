@@ -7,10 +7,15 @@ toc: false
 
 ```{=html}
 <div class="hero-split">
-  <div class="column" style="flex: 1 1 50%;">
+  <div class="column">
     <div class="hero-text">
-      <div class="hero-kicker">Weldy Lab | Genes · RNA · Hearts · Medicine</div>
-      <div class="hero-tagline">Working to accelerate precision medicine through epigenetics and RNA editing</div>
+      <div class="hero-kicker">
+        Weldy Lab | Genes · RNA · Hearts · Medicine
+      </div>
+
+      <div class="hero-tagline">
+        Working to accelerate precision medicine through epigenetics and RNA editing
+      </div>
 
       <div class="hero-buttons">
         <a class="btn btn-primary" href="research.qmd">Research</a>
@@ -19,16 +24,25 @@ toc: false
       </div>
 
       <div class="stanford-line">
-        <div class="stanford-text">Stanford University · Div. of Cardiovascular Medicine</div>
-        <img src="images/SUSig_StnfrdOnly_red.png" alt="Stanford University" class="stanford-logo">
+        <div class="stanford-text">
+          Stanford University · Div. of Cardiovascular Medicine
+        </div>
+        <img
+          src="images/SUSig_StnfrdOnly_red.png"
+          alt="Stanford University"
+          class="stanford-logo">
       </div>
     </div>
   </div>
 
-  <div class="column" style="flex: 1 1 50%;">
-    <img src="images/HEROimage.png" alt="Weldy Lab hero image" class="hero-img-split">
+  <div class="column">
+    <img
+      src="images/HEROimage.png"
+      alt="Weldy Lab hero image"
+      class="hero-img-split">
   </div>
 </div>
+
 
 ```
 
