@@ -73,7 +73,7 @@ We integrate human genetics with mechanistic biology to uncover causal pathways 
 **Weldy CS**, et al. *Molecular Systems Biology* (2025)  
 DOI: 10.1038/s44320-025-00140-2
 
-Single-cell epigenomic profiling reveals how developmental origin shapes vascular cell states and maps coronary artery disease risk loci to specific smooth muscle and endothelial programs.
+Single-cell epigenomic profiling reveals how developmental origin shapes vascular cell states and maps aortic dimension and aneurysm risk loci to specific cell type and vascular site specific programs across smooth muscle, endothelial, and fibroblast cell types.
 
 [Read the paper →](https://doi.org/10.1038/s44320-025-00140-2)
 :::
