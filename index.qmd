@@ -10,7 +10,9 @@ toc: false
   <div class="column">
     <div class="hero-text">
       <div class="hero-kicker">
-        Weldy Lab | Genes · RNA · Hearts · Medicine
+        <span class="hero-title">Weldy Lab</span>
+        <span class="hero-sep"> | </span>
+        <span class="hero-subtitle">Genes · RNA · Hearts · Medicine</span>
       </div>
 
       <div class="hero-tagline">
