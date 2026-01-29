@@ -6,7 +6,7 @@ toc: false
 
 
 ```{=html}
-<div class="hero-split columns v-center">
+<div class="hero-split v-center">
   <div class="column" style="flex: 1 1 50%;">
     <div class="hero-text">
       <div class="hero-kicker">Weldy Lab | Genes · RNA · Hearts · Medicine</div>
