@@ -50,6 +50,36 @@ We dissect epigenetic and molecular mechanisms using conditional smooth muscle d
 :::
 :::
 
+---
+
+::: {.columns .v-center}
+
+::: {.column width="60%"}
+
+### RNA editing, double-stranded RNA sensing, and vascular disease
+
+Across evolution, organisms have retained mechanisms to diversify RNA beyond the genomic sequence. One such mechanism is adenosine-to-inosine (A-to-I) RNA editing, catalyzed by ADAR enzymes. ADAR-mediated editing occurs primarily within double-stranded RNA (dsRNA) structures formed by repetitive and non-coding RNA elements.
+
+A central function of ADAR1 is to suppress inappropriate innate immune activation. Through A-to-I editing, endogenous dsRNA is structurally modified to evade recognition by the dsRNA sensor MDA5 (*IFIH1*), preventing aberrant induction of type I interferon–stimulated gene (ISG) programs.
+
+Human genetic studies have revealed that common variants regulate RNA editing frequency (edQTLs), and alleles associated with reduced editing are linked to increased risk of coronary artery disease and inflammatory disorders. These findings position RNA editing as a genetically controlled process with relevance to common disease.
+
+Our work integrates human genetics with molecular biology to show that impaired RNA editing within vascular smooth muscle cells leads to accumulation of endogenous dsRNA, pathologic MDA5 activation, inflammatory phenotypic switching, and accelerated plaque progression. Together, these findings define endogenous RNA sensing as a causal mechanism of vascular disease.
+
+:::
+
+::: {.column width="40%"}
+
+![](images/ADARfig.jpg){width=100% style="border-radius:8px; margin-bottom:1rem;"}
+
+![](images/ADARfig2.jpg){width=100% style="border-radius:8px;"}
+
+*Top:* ADAR1-mediated A-to-I editing suppresses endogenous dsRNA sensing by MDA5.  
+*Bottom:* Genetic regulation of RNA editing links dsRNA burden, MDA5 activation, and vascular disease risk.
+
+:::
+:::
+
 
 ---
 
