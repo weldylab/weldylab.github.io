@@ -71,11 +71,11 @@ Our work integrates human genetics with molecular biology to show that impaired 
 ::: {.column width="40%"}
 
 ![](images/ADARfig.jpg){width=100% style="border-radius:8px; margin-bottom:1rem;"}
-ADAR1-mediated A-to-I editing suppresses endogenous dsRNA sensing by MDA5.  
+*ADAR1-mediated A-to-I editing suppresses endogenous dsRNA sensing by MDA5.*  
 
 
 ![](images/ADARfig2.jpg){width=100% style="border-radius:8px;"}
-Genetic regulation of RNA editing links dsRNA burden, MDA5 activation, and vascular disease risk.
+*Genetic regulation of RNA editing links dsRNA burden, MDA5 activation, and vascular disease risk.*
 
 :::
 :::
