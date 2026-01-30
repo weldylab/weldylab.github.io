@@ -22,6 +22,8 @@ website:
         text: Publications
       - href: news/
         text: News
+      - href: mentorship.qmd
+        text: On Mentorship
       - href: join.qmd
         text: Join
       - href: contact.qmd
