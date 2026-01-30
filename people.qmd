@@ -1,13 +1,36 @@
 ---
 title: "People"
+
 listing:
-  contents: people
-  type: grid
-  sort: "order"
-  sort-ui: false
-  fields: [image, title, subtitle, description]
-  grid-columns: 3
-  page-size: 30
+  - contents: people
+    type: grid
+    sort: "order"
+    sort-ui: false
+    fields: [image, title, subtitle, description]
+    grid-columns: 3
+    page-size: 30
+
+  - id: collaborators
+    contents: collaborators
+    type: grid
+    sort: "order"
+    sort-ui: false
+    fields: [image, title, subtitle, description]
+    grid-columns: 4
+    page-size: 12
 ---
 
-<!-- People cards are generated from files in /people -->
+<!-- ========================= -->
+<!-- Lab members -->
+<!-- ========================= -->
+
+<!-- Cards generated automatically from /people -->
+
+---
+
+## Key collaborators
+
+We work closely with outstanding collaborators across Stanford and beyond,
+spanning human genetics, cardiovascular medicine, and translational science.
+
+<!-- Cards generated automatically from /collaborators -->
