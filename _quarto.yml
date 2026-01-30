@@ -39,4 +39,4 @@ format:
     toc: true
     smooth-scroll: true
     css: styles.css
-    favicon: images/AHAlogo.png
+    favicon: images/favicon.png
