@@ -1,0 +1,34 @@
+---
+title: "Jin Billy Li, PhD"
+subtitle: "Key Collaborator"
+order: 3
+image: /images/Billy.jpg
+description: "Stanford University · RNA biology · ADAR RNA editing · Innate immunity"
+---
+::: {.columns .v-center}
+
+::: {.column width="65%"}
+
+### Collaboration focus
+
+Dr. Jin Billy Li is a Professor of Genetics at Stanford University and a world-leading expert in RNA editing mediated by ADAR enzymes. Our collaboration centers on defining how A-to-I RNA editing regulates endogenous double-stranded RNA, suppresses inappropriate innate immune activation, and shapes interferon-stimulated gene (ISG) signaling.
+
+Together, we integrate RNA biology, human genetics, and cell-type–specific vascular models to understand how variation in RNA editing influences inflammation and contributes to cardiovascular and immune-mediated disease. This work bridges foundational discoveries in RNA editing with disease-relevant biology.
+
+**Shared areas of interest:**
+- ADAR-mediated A-to-I RNA editing  
+- Endogenous dsRNA sensing and MDA5 activation  
+- Interferon signaling and ISG regulation  
+- Genetic regulation of RNA editing and disease risk  
+
+🔗 **Jin Billy Li — Stanford Genetics Profile**  
+<https://med.stanford.edu/profiles/jin-li>
+
+:::
+
+::: {.column width="35%"}
+
+![](../images/Billy.jpg){width=100% style="border-radius:10px; max-width:300px; margin-left:auto; margin-right:auto; display:block;"}
+
+:::
+:::
