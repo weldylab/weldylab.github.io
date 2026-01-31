@@ -1,0 +1,34 @@
+---
+title: "Juyong Brian Kim, MD"
+subtitle: "Key Collaborator"
+order: 4
+image: /images/Brian.jpg
+description: "Stanford University · Environmental exposures · Vascular biology · Single-cell genomics"
+---
+::: {.columns .v-center}
+
+::: {.column width="65%"}
+
+### Collaboration focus
+
+Dr. Juyong Brian Kim is a physician-scientist at Stanford University whose research focuses on how environmental exposures influence cardiovascular health and vascular biology. Our collaboration examines the molecular and cellular consequences of electronic cigarette exposure and other environmental stressors on the vasculature.
+
+Together, we integrate vascular biology, single-cell transcriptomic and epigenomic technologies, and in vivo disease models to define how environmental factors reshape vascular cell states and contribute to cardiovascular disease risk. This work bridges environmental health with mechanistic cardiovascular biology.
+
+**Shared areas of interest:**
+- Environmental determinants of cardiovascular disease  
+- Electronic cigarette exposure and vascular injury  
+- Vascular smooth muscle and endothelial biology  
+- Single-cell and multi-omics approaches to environmental disease  
+
+🔗 **Kim Lab — Stanford School of Medicine**  
+<https://med.stanford.edu/kimlab.html>
+
+:::
+
+::: {.column width="35%"}
+
+![](../images/Brian.jpg){width=100% style="border-radius:10px; max-width:300px; margin-left:auto; margin-right:auto; display:block;"}
+
+:::
+:::
