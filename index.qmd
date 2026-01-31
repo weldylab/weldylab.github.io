@@ -113,6 +113,7 @@ A smooth muscle–specific RNA editing program regulates dsRNA sensing and infla
 ::: {.column width="60%"}
 
 *RNA editing by ADAR enzymes is a fundamental mechanism that allows cells to distinguish self from non-self RNA.*  
+
 Through A-to-I editing of double-stranded RNA, ADAR1 reshapes endogenous RNA structures and prevents inappropriate activation of the innate immune sensor MDA5 (gene symbol *IFIH1*).
 
 Genetic and molecular studies now show that reduced RNA editing increases inflammatory signaling and disease risk, including coronary artery disease. Our work demonstrates that impaired ADAR1-mediated editing in vascular smooth muscle cells leads to pathologic dsRNA sensing, identifying endogenous RNA recognition as a causal mechanism of vascular disease.
