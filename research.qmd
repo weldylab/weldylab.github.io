@@ -120,23 +120,6 @@ PMID: 40931195 · DOI: 10.1038/s44320-025-00140-2
 
 ---
 
-## Funding
-
-- **NIH/NHLBI K08 (1K08HL167699-01)** — *Aug 2023–Jul 2028* — PI: Chad Weldy  
-  “ADAR-mediated RNA editing is a causal mechanism in coronary artery disease” (~$850,000)
-
-- **AHA Career Development Award (23CDA1042900)** — *Jul 2023–Jun 2026* — PI: Chad Weldy  
-  “Linking RNA editing to coronary artery calcification and disease” (~$231,000)
-
-- **NIH/NHLBI Loan Repayment Program (LRP)** — Renewal (Jul 2023) — PI: Chad Weldy  
-  “RNA editing is a causal mechanism of coronary artery disease”
-
-- **NIH/NHLBI F32 (1F32HL160067-01)** — *Jul 2021–Jun 2023* (completed) — PI: Chad Weldy  
-  “A transcriptional network governing smooth muscle transition is mediated by causal CAD gene PDGFD”  
-  *Impact score 10 (1st percentile)*
-
-- **NIH/NHLBI Loan Repayment Program (LRP)** — (Jul 2021) — PI: Chad Weldy  
-  “Single-cell transcriptomic and epigenomic features of human atherosclerosis”
 
 ## In the news
 
