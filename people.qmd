@@ -24,7 +24,8 @@ listing:
 
 ## Lab members
 
-{{< listing id="lab" >}}
+::: {#lab}
+:::
 
 ---
 
@@ -33,4 +34,5 @@ listing:
 We work closely with outstanding collaborators across Stanford and beyond,
 spanning human genetics, cardiovascular medicine, and translational science.
 
-{{< listing id="collaborators" >}}
+::: {#collaborators}
+:::
