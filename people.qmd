@@ -1,21 +1,30 @@
 ---
 title: "People"
 toc: false
+
+listing:
+  - id: lab
+    contents: people
+    type: grid
+    sort: "order"
+    sort-ui: false
+    fields: [image, title, subtitle, description]
+    grid-columns: 3
+    page-size: 30
+
+  - id: collaborators
+    contents: collaborators
+    type: grid
+    sort: "order"
+    sort-ui: false
+    fields: [image, title, subtitle, description]
+    grid-columns: 4
+    page-size: 12
 ---
 
 ## Lab members
 
-::: {#lab-members}
-::: {.listing}
-contents: people
-type: grid
-sort: "order"
-sort-ui: false
-fields: [image, title, subtitle, description]
-grid-columns: 3
-page-size: 30
-:::
-:::
+{{< listing id="lab" >}}
 
 ---
 
@@ -24,15 +33,4 @@ page-size: 30
 We work closely with outstanding collaborators across Stanford and beyond,
 spanning human genetics, cardiovascular medicine, and translational science.
 
-::: {#key-collaborators}
-::: {.listing}
-contents: collaborators
-type: grid
-sort: "order"
-sort-ui: false
-fields: [image, title, subtitle, description]
-grid-columns: 4
-page-size: 12
-:::
-:::
-
+{{< listing id="collaborators" >}}
