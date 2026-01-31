@@ -1,0 +1,34 @@
+---
+title: "Thomas Quertermous, MD"
+subtitle: "Key Collaborator"
+order: 2
+image: /images/TQ.jpg
+description: "Stanford University · Vascular biology · Genetics · Mouse models of disease"
+---
+::: {.columns .v-center}
+
+::: {.column width="65%"}
+
+### Collaboration focus
+
+Dr. Thomas Quertermous is a leader in cardiovascular genetics and vascular biology at Stanford University. Our collaboration focuses on dissecting complex genetic mechanisms of vascular disease through the use of advanced mouse models, single-cell technologies, and integrative genomics.
+
+Together, we study how genetic perturbations influence vascular cell states, disease susceptibility, and progression—bridging human genetic discovery with mechanistic in vivo modeling to identify causal pathways in cardiovascular disease.
+
+**Shared areas of interest:**
+- Complex mouse models of cardiovascular disease  
+- Single-cell transcriptomic and epigenomic profiling  
+- Genetic mechanisms underlying vascular biology  
+- Translational models of coronary artery disease  
+
+🔗 **Quertermous Lab — Stanford School of Medicine**  
+<https://med.stanford.edu/quertermous.html>
+
+:::
+
+::: {.column width="35%"}
+
+![](../images/TQ.jpg){width=100% style="border-radius:10px; max-width:300px; margin-left:auto; margin-right:auto; display:block;"}
+
+:::
+:::
