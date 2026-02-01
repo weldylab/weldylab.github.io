@@ -52,11 +52,8 @@ toc: false
 
 ## From genetic discovery to cardiovascular innovation
 
-We integrate human genetics with mechanistic biology to uncover causal pathways of cardiovascular disease and pioneer new therapeutic strategies.
-
-[Research](research.qmd){.btn .btn-primary}
-[People](people.qmd){.btn .btn-outline-primary}
-[Join](join.qmd){.btn .btn-outline-secondary}
+**Lab Mission** 
+> *The Weldy Lab seeks to transform cardiovascular medicine by integrating human genetics with mechanistic biology to uncover causal pathways of disease and pioneer new therapeutic strategies.*
 
 ---
 
