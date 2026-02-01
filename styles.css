@@ -195,3 +195,9 @@
   max-width: 280px;
   margin: 8.5rem auto 0 auto;  /* top | left/right | bottom */
 }
+
+.mission-quote {
+  font-size: 1.25rem;   /* try 1.2–1.4rem */
+  line-height: 1.6;
+  font-style: italic;
+}
