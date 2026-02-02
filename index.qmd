@@ -4,7 +4,6 @@ page-layout: full
 toc: false
 ---
 
-
 ```{=html}
 <div class="hero-split">
   <div class="column">
