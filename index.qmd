@@ -27,7 +27,7 @@ toc: false
 
       <div class="stanford-line">
         <div class="stanford-text">
-          Stanford University · Division of Cardiovascular Medicine
+          Laboratory of Dr. Chad Weldy, MD, PhD · Stanford University · Division of Cardiovascular Medicine
         </div>
         <img
           src="images/SUSig_StnfrdOnly_red.png"
