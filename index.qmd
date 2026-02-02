@@ -58,6 +58,27 @@ toc: false
 
 ---
 
+## Principal Investigator
+
+::: {.columns .v-center}
+
+::: {.column width="35%"}
+![](images/Weldy-Chad_13_Horiz.jpg){width=100% style="border-radius:10px;"}
+:::
+
+::: {.column width="65%"}
+
+**Chad Weldy, MD, PhD** is a cardiologist and physician-scientist at Stanford University.
+His research integrates human genetics, RNA biology, and vascular biology to uncover
+causal mechanisms of cardiovascular disease and enable precision therapeutic strategies.
+
+[Learn more about Dr. Weldy →](people/chad-weldy.qmd)
+
+:::
+:::
+
+---
+
 ## Featured publications
 
 ::: {.columns .v-center}
