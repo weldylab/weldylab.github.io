@@ -3,7 +3,10 @@ title: "Jin Billy Li, PhD"
 subtitle: "Key Collaborator"
 order: 3
 image: /images/Billy.jpg
-description: "Stanford University · RNA biology · ADAR RNA editing · Innate immunity"
+description: description: |
+  Stanford University · RNA biology · ADAR RNA editing · Innate immunity
+  *Read more →*
+
 ---
 ::: {.columns .v-center}
 
