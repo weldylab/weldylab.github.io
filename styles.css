@@ -83,7 +83,7 @@
 /* right image */
 .hero-img-split{
   width: 100%;
-  max-height: 420px;     /* keeps it from being huge */
+  max-height: 480px;     /* keeps it from being huge */
   height: auto;          /* let the image keep its proportions */
   object-fit: contain;   /* IMPORTANT: no cropping */
   border-radius: 18px;
