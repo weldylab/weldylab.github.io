@@ -45,9 +45,7 @@ toc: false
   </div>
 </div>
 
-
 ```
-
 ---
 
 ## From genetic discovery to cardiovascular innovation
@@ -55,8 +53,6 @@ toc: false
 ::: {.mission-quote}
 > **Lab Mission** *The Weldy Lab seeks to transform cardiovascular medicine by integrating human genetics with mechanistic biology to uncover causal pathways of disease and pioneer new therapeutic strategies.*
 :::
-
-
 
 ---
 
