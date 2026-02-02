@@ -205,3 +205,15 @@
   line-height: 1.6;
   font-style: italic;
 }
+
+/* Make listing cards clearly clickable */
+.quarto-listing .card {
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.quarto-listing .card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
