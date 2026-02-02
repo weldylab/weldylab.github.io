@@ -3,7 +3,10 @@ title: "Thomas Quertermous, MD"
 subtitle: "Key Collaborator"
 order: 2
 image: /images/TQ.jpg
-description: "Stanford University · Vascular biology · Genetics · Mouse models of disease"
+description: |
+  Stanford University · Vascular biology · Genetics · Mouse models of disease  
+  *Read more →*
+
 ---
 ::: {.columns .v-center}
 
