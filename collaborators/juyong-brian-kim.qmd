@@ -3,7 +3,10 @@ title: "Juyong Brian Kim, MD"
 subtitle: "Key Collaborator"
 order: 4
 image: /images/Brian.jpg
-description: "Stanford University · Environmental exposures · Vascular biology · Single-cell genomics"
+description: description: |
+  Stanford University · Environmental exposures · Vascular biology · Single-cell genomics  
+  *Read more →*
+
 ---
 ::: {.columns .v-center}
 
