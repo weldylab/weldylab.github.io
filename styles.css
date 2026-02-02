@@ -83,11 +83,15 @@
 /* right image */
 .hero-img-split{
   width: 100%;
-  height: 360px;          /* adjust 360–520 */
-  object-fit: cover;
+  max-height: 420px;     /* keeps it from being huge */
+  height: auto;          /* let the image keep its proportions */
+  object-fit: contain;   /* IMPORTANT: no cropping */
   border-radius: 18px;
   display: block;
+  background: white;     /* looks clean behind transparent-ish edges */
+  padding: 18px;         /* gives breathing room so corners don't kiss the border */
 }
+
 
 /* Mobile: stack */
 @media (max-width: 900px){
