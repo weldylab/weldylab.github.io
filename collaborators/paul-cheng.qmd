@@ -3,7 +3,7 @@ title: "Paul Cheng, MD, PhD"
 subtitle: "Key Collaborator"
 order: 1
 image: /images/Cheng.jpg
-description: description: |
+description: |
   Stanford University · Vascular biology · Genetics · Single-cell technologies<br>
   <em>Read more →</em>
 
