@@ -5,6 +5,8 @@ categories: ["News", "Genetics", "Cardiovascular"]
 image: ../images/news/AshleyNews.jpg
 ---
 
+![](../images/news/AshleyNews.jpg){fig-align="center" width=85%}
+
 A recent Stanford Medicine feature highlights research from the Dr. Euan Ashley lab for which Dr. Weldy is co-author, uncovering how epistasis — interactions between pairs of genes — contributes to inherited forms of heart disease**, moving beyond traditional single-variant genetic models.
 
 Most genetic studies focus on how individual variants influence disease risk. However, many cardiovascular traits, including cardiac hypertrophy, arise from combinations of genetic variants whose effects depend on one another. These epistatic interactions can amplify or suppress disease risk in ways that are invisible when genes are studied in isolation.
