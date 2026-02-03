@@ -31,11 +31,10 @@ toc: false
         </div>
       </div>
 
-        <img
-          src="images/SUSig_StnfrdOnly_red.png"
-          alt="Stanford University"
-          class="stanford-logo">
-      </div>
+      <img
+        src="images/SUSig_StnfrdOnly_red.png"
+        alt="Stanford University"
+        class="stanford-logo">
     </div>
   </div>
 
@@ -46,6 +45,7 @@ toc: false
       class="hero-img-split">
   </div>
 </div>
+
 ```
 ---
 
