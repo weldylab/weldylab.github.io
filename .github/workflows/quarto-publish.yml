@@ -17,6 +17,12 @@ concurrency:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
+    # This matters for deploy-pages in a lot of repos
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,12 +33,21 @@ jobs:
       - name: Render
         run: quarto render
 
+      # Helps Pages gather metadata + prep (recommended by GitHub docs)
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      # Quick sanity check: does _site exist?
+      - name: Debug _site
+        run: |
+          ls -la
+          ls -la _site
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
