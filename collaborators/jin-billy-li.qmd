@@ -4,8 +4,8 @@ subtitle: "Key Collaborator"
 order: 3
 image: /images/Billy.jpg
 description: description: |
-  Stanford University · RNA biology · ADAR RNA editing · Innate immunity
-  *Read more →*
+  Stanford University · RNA biology · ADAR RNA editing · Innate immunity<br>
+  <em>Read more →</em>
 
 ---
 ::: {.columns .v-center}
