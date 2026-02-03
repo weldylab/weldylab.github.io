@@ -4,8 +4,8 @@ subtitle: "Principal Investigator"
 order: 1
 image: /images/Weldy-Chad_13_Horiz.jpg
 description: |
-  Stanford University · Division of Cardiovascular Medicine  
-  *Read more →*
+  Stanford University · Division of Cardiovascular Medicine<br>
+  <em>Read more →</em>
 
 ---
 
