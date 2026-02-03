@@ -4,8 +4,8 @@ subtitle: "Key Collaborator"
 order: 2
 image: /images/TQ.jpg
 description: |
-  Stanford University · Vascular biology · Genetics · Mouse models of disease  
-  *Read more →*
+  Stanford University · Vascular biology · Genetics · Mouse models of disease<br>
+  <em>Read more →</em>
 
 ---
 ::: {.columns .v-center}
