@@ -3,7 +3,6 @@ title: ""
 toc: false
 ---
 
-
 ```{=html}
 <div class="hero-split">
   <div class="column">
