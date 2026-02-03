@@ -1,6 +1,5 @@
 ---
 title: ""
-page-layout: full
 toc: false
 ---
 
