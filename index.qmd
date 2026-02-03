@@ -47,6 +47,7 @@ toc: false
 </div>
 
 ```
+
 ---
 
 ## From genetic discovery to cardiovascular innovation
