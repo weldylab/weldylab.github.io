@@ -26,7 +26,8 @@ toc: false
       <div class="stanford-line">
         <div class="stanford-text">
           <div>Laboratory of Dr. Chad Weldy, MD, PhD</div>
-          <div>Stanford University · Division of Cardiovascular Medicine</div>
+          <div>Stanford University</div>
+          </div>Division of Cardiovascular Medicine</div>
         </div>
       </div>
 
