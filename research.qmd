@@ -99,6 +99,8 @@ PMID: 40958051 · DOI: 10.1038/s44161-025-00710-5
 - Finalist, **Louis N. and Arnold M. Katz Basic Science Research Prize** (AHA; Nov 16, 2024)
 - Highlighted by Stanford Department of Medicine News:  
   <https://medicine.stanford.edu/news/current-news/standard-news/RNA-editing.html>
+
+[Read the paper →](https://doi.org/10.1038/s44161-025-00710-5)
 :::
 :::
 
