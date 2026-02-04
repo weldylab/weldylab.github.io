@@ -15,3 +15,5 @@ Stanford Medicine published a feature on our research exploring how **RNA editin
 ### Related publication
 **Weldy CS**, et al. *Nature Cardiovascular Research* (2025).  
 DOI: 10.1038/s44161-025-00710-5
+
+- [Read the paper →](https://doi.org/10.1038/s44161-025-00710-5)
