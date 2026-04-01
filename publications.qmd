@@ -68,6 +68,35 @@ Clinical and translational studies advancing precision cardiovascular medicine.
 
 4. **Weldy, C. S.**, Ashley, E. A. (2021). Mulibrey nanism and the real-time use of genome and biobank engines to inform clinical care in an ultrarare disease. *Circulation: Genomic and Precision Medicine*. [doi:10.1161/circgen.121.003430](https://doi.org/10.1161/circgen.121.003430)
 
+5. **Weldy, C. S.**, Murtha, R., Kim, J. B. (2022). Dissecting the genomics of spontaneous coronary artery dissection. *Circulation: Genomic and Precision Medicine*. [doi:10.1161/circgen.122.003867](https://doi.org/10.1161/circgen.122.003867)
+
+---
+
+### Earlier foundational studies
+
+1. **Weldy, C.**, Syed, S., Amsallem, M., Hu, D., Ji, X., Punn, R., Taylor, A., Navarre, B., Reddy, S. (2020). Circulating whole genome miRNA expression corresponds to progressive right ventricle enlargement and systolic dysfunction in adults with tetralogy of Fallot. *PLOS ONE*, 15(11), e0241476. [doi:10.1371/journal.pone.0241476](https://doi.org/10.1371/journal.pone.0241476)
+
+2. Goodson, J. M., **Weldy, C. S.**, MacDonald, J. W., Liu, Y., Bammler, T. K., Chien, W.-M., Chin, M. T. (2017). In utero exposure to diesel exhaust particulates is associated with an altered cardiac transcriptional response to transverse aortic constriction and altered DNA methylation. *FASEB Journal*.
+
+3. Liu, Y., **Weldy, C. S.**, Chin, M. T. (2016). Neonatal diesel exhaust particulate exposure does not predispose mice to adult cardiac hypertrophy or heart failure. *International Journal of Environmental Research and Public Health*, 13(12), 1178. [doi:10.3390/ijerph13121178](https://doi.org/10.3390/ijerph13121178)
+
+4. Hartman, M. E., Liu, Y., Zhu, W.-Z., Chien, W.-M., **Weldy, C. S.**, Fishman, G. I., et al. (2014). Myocardial deletion of transcription factor CHF1/Hey2 results in altered myocyte action potential and mild conduction system expansion but does not alter conduction system function or promote spontaneous arrhythmias. *FASEB Journal*, 28(7), 3007–3015. [doi:10.1096/fj.14-251728](https://doi.org/10.1096/fj.14-251728)
+
+5. **Weldy, C. S.**, Liu, Y., Liggitt, H. D., Chin, M. T. (2014). In utero exposure to diesel exhaust air pollution promotes adverse intrauterine conditions, resulting in weight gain, altered blood pressure, and increased susceptibility to heart failure in adult mice. *PLOS ONE*, 9(2), e88582. [doi:10.1371/journal.pone.0088582](https://doi.org/10.1371/journal.pone.0088582)
+
+6. **Weldy, C. S.**, Liu, Y., Chang, Y.-C., Medvedev, I. O., Fox, J. R., Larson, T. V., et al. (2013). In utero and early life exposure to diesel exhaust air pollution increases adult susceptibility to heart failure in mice. *Particle and Fibre Toxicology*, 10(1), 59. [doi:10.1186/1743-8977-10-59](https://doi.org/10.1186/1743-8977-10-59)
+
+7. Liu, Y., Chien, W.-M., Medvedev, I. O., **Weldy, C. S.**, Luchtel, D. L., Rosenfeld, M. E., Chin, M. T. (2013). Inhalation of diesel exhaust does not exacerbate cardiac hypertrophy or heart failure in two mouse models of cardiac hypertrophy. *Particle and Fibre Toxicology*, 10(1), 49. [doi:10.1186/1743-8977-10-49](https://doi.org/10.1186/1743-8977-10-49)
+
+8. **Weldy, C. S.**, Luttrell, I. P., White, C. C., Morgan-Stevenson, V., Cox, D. P., Carosino, C. M., et al. (2013). Glutathione (GSH) and the GSH synthesis gene *Gclm* modulate plasma redox and vascular responses to acute diesel exhaust inhalation in mice. *Inhalation Toxicology*, 25(8), 444–454. [doi:10.3109/08958378.2013.801004](https://doi.org/10.3109/08958378.2013.801004)
+
+9. McConnachie, L. A., Botta, D., White, C. C., **Weldy, C. S.**, Wilkerson, H.-W., Yu, J., et al. (2013). The glutathione synthesis gene *Gclm* modulates amphiphilic polymer-coated CdSe/ZnS quantum dot-induced lung inflammation in mice. *PLOS ONE*, 8(5), e64165. [doi:10.1371/journal.pone.0064165](https://doi.org/10.1371/journal.pone.0064165)
+
+10. **Weldy, C. S.**, Luttrell, I. P., White, C. C., Morgan-Stevenson, V., Bammler, T. K., Beyer, R. P., et al. (2012). Glutathione (GSH) and the GSH synthesis gene *Gclm* modulate vascular reactivity in mice. *Free Radical Biology and Medicine*, 53(6), 1264–1278. [doi:10.1016/j.freeradbiomed.2012.07.006](https://doi.org/10.1016/j.freeradbiomed.2012.07.006)
+
+11. **Weldy, C. S.**, White, C. C., Wilkerson, H.-W., Larson, T. V., Stewart, J. A., Gill, S. E., et al. (2011). Heterozygosity in the glutathione synthesis gene *Gclm* increases sensitivity to diesel exhaust particulate induced lung inflammation in mice. *Inhalation Toxicology*, 23(12), 724–735. [doi:10.3109/08958378.2011.608095](https://doi.org/10.3109/08958378.2011.608095)
+
+12. **Weldy, C. S.**, Wilkerson, H.-W., Larson, T. V., Stewart, J. A., Kavanagh, T. J. (2011). DIESEL particulate exposed macrophages alter endothelial cell expression of eNOS, iNOS, MCP1, and glutathione synthesis genes. *Toxicology in Vitro*, 25(8), 2064–2073. [doi:10.1016/j.tiv.2011.08.008](https://doi.org/10.1016/j.tiv.2011.08.008)
 
 ---
 
