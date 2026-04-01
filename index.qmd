@@ -163,8 +163,6 @@ By integrating human genetics, RNA biology, and vascular models, we study how va
 [![](images/news/RNAedit.jpg){width=100% style="border-radius:8px;"}](news/2024-11-16-stanford-medicine-rna-editing.html)
 :::
 ::: {.column width="75%"}
-
-
 ### Stanford Medicine highlights our RNA editing work
 A Stanford Medicine feature on ADAR1 RNA editing, dsRNA sensing, and implications for cardiovascular disease mechanisms.  
 [Read the story →](news/2024-11-16-stanford-medicine-rna-editing.html)
