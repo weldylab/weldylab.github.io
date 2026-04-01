@@ -158,12 +158,31 @@ By integrating human genetics, RNA biology, and vascular models, we study how va
 ## News
 [See lab updates →](news/)
 
-## Featured news
-- **Dec 15, 2025:** Stanford CVI highlights how arteries retain a developmental “memory” that shapes disease susceptibility.  
-  [Read →](news/2025-12-15-developmental-memory-arteries.html)
+::: {.columns .v-center}
+::: {.column width="25%"}
+[![](images/news/RNAedit.jpg){width=100% style="border-radius:8px;"}](news/2024-11-16-stanford-medicine-rna-editing.html)
+:::
+::: {.column width="75%"}
 
-- **Nov 16, 2024:** Stanford Medicine highlights our RNA editing work.  
-  [Read →](news/2024-11-16-stanford-medicine-rna-editing.html)
+
+### Stanford Medicine highlights our RNA editing work
+A Stanford Medicine feature on ADAR1 RNA editing, dsRNA sensing, and implications for cardiovascular disease mechanisms.  
+[Read the story →](news/2024-11-16-stanford-medicine-rna-editing.html)
+:::
+:::
+
+::: {.columns .v-center}
+::: {.column width="25%"}
+[![](images/news/Covers.jpeg){width=100% style="border-radius:8px;"}](news/2025-12-15-developmental-memory-arteries.html)
+:::
+::: {.column width="75%"}
+### Stanford CVI story on developmental “memory” in arteries
+How developmental origin leaves a lasting imprint shaping regional vascular disease risk.  
+[Read the story →](news/2025-12-15-developmental-memory-arteries.html)
+:::
+:::
+
+---
 
 ## Affiliations
 
@@ -184,6 +203,8 @@ By integrating human genetics, RNA biology, and vascular models, we study how va
 ![](images/SCICDlogo.jpg){style="max-height:110px; width:100%; object-fit:contain;"}
 :::
 :::
+
+---
 
 ## Funding
 
