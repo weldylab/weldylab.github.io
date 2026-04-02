@@ -83,31 +83,55 @@
 /* right image */
 .hero-img-split{
   width: 100%;
-  max-height: 480px;     /* keeps it from being huge */
-  height: auto;          /* let the image keep its proportions */
-  object-fit: contain;   /* IMPORTANT: no cropping */
+  max-width: 520px;
+  max-height: none;
+  height: auto;
+  object-fit: contain;
   border-radius: 18px;
   display: block;
-  background: white;     /* looks clean behind transparent-ish edges */
-  padding: 18px;         /* gives breathing room so corners don't kiss the border */
+  margin: 0 auto;
+  background: white;
+  padding: 18px;
 }
-
 
 /* Mobile: stack */
 @media (max-width: 900px){
   .hero-split{
-    flex-direction: column;
-    align-items: stretch;
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 1.25rem;
   }
+
   .hero-split > .column{
     flex: 0 0 100%;
     max-width: 100%;
+    width: 100%;
   }
+
   .hero-img-split{
-    height: 300px;
+    width: 88vw;
+    max-width: 88vw;
+    height: auto;
+    padding: 10px;
+  }
+
+  .hero-kicker{
+    font-size: 1.25rem;
+    white-space: normal;
+  }
+
+  .hero-tagline{
+    font-size: 1rem;
+  }
+
+  .stanford-text{
+    font-size: 0.98rem;
+  }
+
+  .stanford-logo{
+    max-width: 260px;
   }
 }
-
 
 /* dark gradient so text is readable */
 .hero-overlay {
@@ -181,16 +205,28 @@
 }
 
 .stanford-logo {
-  height: 120px;     /* try 60–80 */
-  width: auto;
-  max-width: 340px; /* keeps it from stretching */
+  width: 100%;
+  max-width: 340px;
+  height: auto;
+  display: block;
+  margin-top: 0.5rem;
 }
 
 /* Mobile tweaks */
 @media (max-width: 700px) {
-  .hero-img { height: 300px; }
-  .hero-overlay { padding: 1.25rem; }
-  .hero-kicker { font-size: 1.15rem; }
+  .hero-img-split {
+    width: 88vw;
+    max-width: 88vw;
+    height: auto;
+  }
+
+  .hero-overlay {
+    padding: 1.25rem;
+  }
+
+  .hero-kicker {
+    font-size: 1.15rem;
+  }
 }
 
 /* Medicine page logo alignment */
@@ -216,7 +252,6 @@
   transform: translateY(-3px);
   box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 }
-
 
 /* Make logo responsive */
 img.lab-logo {
