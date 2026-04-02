@@ -230,10 +230,27 @@
 }
 
 /* Medicine page logo alignment */
+
 .medicine-logo {
   display: block;
   max-width: 280px;
-  margin: 8.5rem auto 0 auto;  /* top | left/right | bottom */
+  margin: 8.5rem auto 0 auto;
+}
+
+/* Medicine page mobile layout */
+@media (max-width: 700px) {
+  .medicine-logo {
+    width: 85vw;
+    max-width: 340px;
+    height: auto;
+    margin: 1rem auto 0 auto;
+    object-fit: contain;
+  }
+
+  .columns.v-center > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
 }
 
 .mission-quote {
