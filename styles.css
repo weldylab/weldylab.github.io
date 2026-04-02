@@ -218,4 +218,18 @@
 }
 
 
+/* Make logo responsive */
+img.lab-logo {
+  width: 100%;
+  max-width: 300px;   /* desktop size cap */
+  height: auto;
+}
 
+/* Increase size on mobile */
+@media (max-width: 768px) {
+  img.lab-logo {
+    max-width: 90%;
+    margin: 0 auto;
+    display: block;
+  }
+}
