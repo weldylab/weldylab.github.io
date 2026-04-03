@@ -43,7 +43,7 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
 
   <div class="column">
     <img
-      src="images/LabLogoHoriz.jpg"
+      src="images/LabLogoSocial.png"
       alt="Weldy Lab hero image"
       class="hero-img-split">
   </div>
