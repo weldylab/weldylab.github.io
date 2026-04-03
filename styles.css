@@ -90,8 +90,8 @@
   border-radius: 18px;
   display: block;
   margin: 0 auto;
-  background: white;
-  padding: 18px;
+  background: none;
+  padding: 0;
 }
 
 /* Mobile: stack */
