@@ -8,6 +8,14 @@ website:
 
   google-analytics: "G-EVBRMBPE47"
 
+  open-graph:
+    site-name: "Weldy Lab"
+    image: "/images/LabLogoSocial.png"
+
+  twitter-card:
+    card-style: summary_large_image
+    image: "/images/LabLogoSocial.png"
+
   navbar:
     left:
       - href: index.qmd
