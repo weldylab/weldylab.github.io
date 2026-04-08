@@ -95,23 +95,6 @@ causal mechanisms of cardiovascular disease and enable precision therapeutic str
 
 ::: {.columns .v-center}
 ::: {.column width="30%" .cover-column}
-[![](images/MolecularSysBio_Cover.jpg){width=100%}](https://doi.org/10.1038/s44320-025-00140-2)
-:::
-
-::: {.column width="70%"}
-### Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci
-
-**Weldy CS**, et al. *Molecular Systems Biology* (2025)  
-DOI: 10.1038/s44320-025-00140-2
-
-Single-cell epigenomic profiling reveals how developmental origin shapes vascular cell states and maps aortic dimension and aneurysm risk loci to specific cell type and vascular site specific programs across smooth muscle, endothelial, and fibroblast cell types.
-
-[Read the paper →](https://doi.org/10.1038/s44320-025-00140-2)
-:::
-:::
-
-::: {.columns .v-center}
-::: {.column width="30%" .cover-column}
 [![](images/NatCVR_Cover.jpg){width=100%}](https://doi.org/10.1038/s44161-025-00710-5)
 :::
 
@@ -124,6 +107,23 @@ DOI: 10.1038/s44161-025-00710-5
 A smooth muscle–specific RNA editing program regulates dsRNA sensing and inflammatory signaling in atherosclerosis, linking RNA biology to vascular disease mechanisms.
 
 [Read the paper →](https://doi.org/10.1038/s44161-025-00710-5)
+:::
+:::
+
+::: {.columns .v-center}
+::: {.column width="30%" .cover-column}
+[![](images/MolecularSysBio_Cover.jpg){width=100%}](https://doi.org/10.1038/s44320-025-00140-2)
+:::
+
+::: {.column width="70%"}
+### Epigenomic landscape of single vascular cells reflects developmental origin and disease risk loci
+
+**Weldy CS**, et al. *Molecular Systems Biology* (2025)  
+DOI: 10.1038/s44320-025-00140-2
+
+Single-cell epigenomic profiling reveals how developmental origin shapes vascular cell states and maps aortic dimension and aneurysm risk loci to specific cell type and vascular site specific programs across smooth muscle, endothelial, and fibroblast cell types.
+
+[Read the paper →](https://doi.org/10.1038/s44320-025-00140-2)
 :::
 :::
 
