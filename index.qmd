@@ -14,7 +14,7 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
       <div class="hero-kicker">
         <span class="hero-title">Weldy Lab</span>
         <span class="hero-sep"> | </span>
-        <span class="hero-subtitle">Stanford Cardiovascular Medicine</span>
+        <span class="hero-subtitle">Genes · RNA · Hearts · Medicine</span>
       </div>
 
       <div class="hero-tagline">
