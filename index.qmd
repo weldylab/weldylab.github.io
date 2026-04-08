@@ -13,24 +13,35 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
       <div class="hero-kicker">
         <span class="hero-title">Weldy Lab</span>
         <span class="hero-sep"> | </span>
-        <span class="hero-subtitle">Genes · RNA · Hearts · Medicine</span>
+        <span class="hero-subtitle">Stanford Cardiovascular Medicine</span>
       </div>
 
       <div class="hero-tagline">
-        Accelerating precision medicine through epigenetics and RNA editing
+        From genetic discovery to cardiovascular innovation
       </div>
 
-      <div class="hero-buttons">
+      <div style="font-size: 1.15rem; line-height: 1.7; margin-top: 1.25rem; max-width: 42rem;">
+        The Weldy Lab is an independent research group at Stanford University
+        that integrates human genetics, RNA biology, and vascular biology to uncover
+        causal mechanisms of cardiovascular disease and advance new therapeutic strategies.
+      </div>
+
+      <div style="font-size: 1.02rem; line-height: 1.7; margin-top: 1rem; max-width: 42rem;">
+        Using single-cell genomics, molecular biology, and in vivo models, we study how
+        genetic variation shapes vascular cell behavior, inflammation, and disease risk.
+      </div>
+
+      <div class="hero-buttons" style="margin-top: 1.5rem;">
         <a class="btn btn-primary" href="research.qmd">Research</a>
         <a class="btn btn-outline-primary" href="people.qmd">People</a>
         <a class="btn btn-outline-secondary" href="join.qmd">Join</a>
       </div>
 
-      <div class="stanford-line">
+      <div class="stanford-line" style="margin-top: 1.5rem;">
         <div class="stanford-text">
-          <div>Laboratory of Dr. Chad Weldy, MD, PhD</div>
-          <div>Stanford University</div>
-          <div>Division of Cardiovascular Medicine</div>
+          <div><strong>Chad S. Weldy, MD, PhD</strong></div>
+          <div>Principal Investigator</div>
+          <div>Division of Cardiovascular Medicine, Stanford University</div>
         </div>
       </div>
 
@@ -48,8 +59,6 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
       class="hero-img-split">
   </div>
 </div>
-
-```
 
 ---
 
