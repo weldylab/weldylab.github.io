@@ -67,7 +67,7 @@
 
 .hero-split{
   display: flex;
-  align-items: center;
+  align-items: flex-start;  /* ← changed from center */
   gap: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 2rem;
