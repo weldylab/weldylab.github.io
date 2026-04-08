@@ -67,7 +67,7 @@
 
 .hero-split{
   display: flex;
-  align-items: flex-start;  /* ← changed from center */
+  align-items: flex-start;
   gap: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 2rem;
@@ -80,6 +80,13 @@
   min-width: 0;
 }
 
+/* make the right column align content to the top */
+.hero-split > .column:last-child{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
 /* right image */
 .hero-img-split{
   width: 100%;
@@ -89,7 +96,7 @@
   object-fit: contain;
   border-radius: 18px;
   display: block;
-  margin: 0 auto;
+  margin: 0;
   background: none;
   padding: 0;
 }
