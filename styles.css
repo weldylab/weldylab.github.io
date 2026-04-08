@@ -96,7 +96,7 @@
   object-fit: contain;
   border-radius: 18px;
   display: block;
-  margin: 0;
+  margin: 20px 0 0 0;   /* ← THIS is the only change */
   background: none;
   padding: 0;
 }
