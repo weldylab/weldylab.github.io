@@ -75,8 +75,8 @@
 
 /* left + right halves */
 .hero-split > .column{
-  flex: 0 0 50%;
-  max-width: 50%;
+  flex: 0 0 calc(50% - 0.75rem);
+  max-width: calc(50% - 0.75rem);
   min-width: 0;
 }
 
