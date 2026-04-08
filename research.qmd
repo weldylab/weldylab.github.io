@@ -66,6 +66,8 @@ Human genetic studies have revealed that common variants regulate RNA editing fr
 
 Our work integrates human genetics with molecular biology to show that impaired RNA editing within vascular smooth muscle cells leads to accumulation of endogenous dsRNA, pathologic MDA5 activation, inflammatory phenotypic switching, and accelerated plaque progression. Together, these findings define endogenous RNA sensing as a causal mechanism of vascular disease.
 
+*Recently reviewed by Weldy et al. ATVB, 2026 [Read the paper →](https://www.ahajournals.org/doi/10.1161/ATVBAHA.125.323847)* 
+
 :::
 
 ::: {.column width="40%"}
