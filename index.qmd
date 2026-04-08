@@ -46,18 +46,21 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
         </div>
       </div>
 
-      <img
-        src="images/SUSig_StnfrdOnly_red.png"
-        alt="Stanford University"
-        class="stanford-logo">
     </div>
   </div>
 
   <div class="column">
-    <img
-      src="images/LabLogoSocial.png"
-      alt="Weldy Lab hero image"
-      class="hero-img-split">
+    <div class="hero-right">
+      <img
+        src="images/LabLogoSocial.png"
+        alt="Weldy Lab hero image"
+        class="hero-img-split">
+
+      <img
+        src="images/SUSig_StnfrdOnly_red.png"
+        alt="Stanford University"
+        class="stanford-hero-logo">
+    </div>
   </div>
 </div>
 ```
