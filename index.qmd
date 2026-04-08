@@ -6,7 +6,8 @@ image: /images/LabLogoSocial.png
 description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and vascular biology to uncover disease mechanisms and advance precision cardiovascular medicine."
 ---
 
-```
+
+```{=html}
 <div class="hero-split">
   <div class="column">
     <div class="hero-text">
@@ -59,6 +60,7 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
       class="hero-img-split">
   </div>
 </div>
+```
 
 ---
 
