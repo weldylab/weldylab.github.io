@@ -162,7 +162,7 @@ By integrating human genetics, RNA biology, and vascular models, we study how va
 ::: {.column width="40%"}
 
 ![](images/ADARfig.jpg){width=100% style="border-radius:10px;"}
-*ADAR1-mediated RNA editing suppresses endogenous dsRNA sensing by MDA5 in vascular cells.*
+*ADAR1-mediated RNA editing suppresses endogenous dsRNA sensing by MDA5 in vascular cells. See review by Weldy et al. ATVB, 2026 [Read the paper →](https://www.ahajournals.org/doi/10.1161/ATVBAHA.125.323847)* 
 
 :::
 
