@@ -5,7 +5,7 @@ project:
     - images/*
 
 website:
-  title: "Weldy Lab"
+  title: "Weldy Lab | Chad S. Weldy, MD, PhD | Stanford University"
   site-url: "https://weldylab.org"
 
   google-analytics: "G-EVBRMBPE47"
