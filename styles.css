@@ -326,12 +326,11 @@ img.lab-logo {
 
 /* Mentorship page image */
 .mentorship-img {
-  width: 100%;
-  max-width: 340px;
-  height: auto;
-  border-radius: 12px;
   display: block;
-  margin: 0 auto 0.75rem auto;
+  margin: 1.5rem auto 0.5rem auto;
+  max-width: 600px;
+  width: 100%;
+  border-radius: 12px;
 }
 
 /* Mobile tweak */
