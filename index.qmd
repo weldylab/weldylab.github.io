@@ -23,7 +23,7 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
 
       <div style="font-size: 1.15rem; line-height: 1.7; margin-top: 1.25rem; max-width: 42rem;">
         The Weldy Lab is an independent research group at Stanford University
-        that integrates human genetics, RNA biology, and vascular biology to uncover
+        that integrates human genetics, epigenetics, RNA biology, and vascular biology to uncover
         causal mechanisms of cardiovascular disease and advance new therapeutic strategies.
       </div>
 
@@ -85,9 +85,9 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
 
 ::: {.column width="62%"}
 
-The Weldy Lab studies how human genetic variation drives vascular dysfunction, inflammation, and cardiovascular disease. We integrate human genetics, single-cell genomics, RNA biology, and experimental models to define causal mechanisms and identify new therapeutic opportunities.
+The Weldy Lab studies how human genetic variation drives vascular dysfunction, inflammation, and cardiovascular disease. We integrate human genetics, epigenetics, single-cell genomics, RNA biology, and experimental models to define causal mechanisms and identify new therapeutic opportunities.
 
-Led by **Chad S. Weldy, MD, PhD**, the lab focuses on questions at the intersection of cardiovascular genetics, vascular biology, and RNA-mediated regulation, with particular interest in smooth muscle cell phenotypic modulation, innate immune signaling, and mechanisms of disease susceptibility across vascular beds.
+Led by **Chad S. Weldy, MD, PhD**, the lab focuses on questions at the intersection of cardiovascular genetics, vascular biology, and RNA-mediated regulation, with particular interest in smooth muscle cell phenotypic modulation, innate immune signaling, and mechanisms of disease susceptibility governed by epigenetic memory.
 
 Our work is grounded in the idea that genetic discovery can do more than identify risk. It can reveal the biology that matters most and point toward more precise strategies for prevention and treatment.
 
@@ -139,6 +139,7 @@ Single-cell epigenomic profiling reveals how developmental origin shapes vascula
 ## Areas of focus
 - Human genetics & causality
 - Vascular biology & site-specific mechanisms
+- Epigenetics and epigenetic memory
 - RNA biology (A-to-I editing) and innate immune sensing
 - Single-cell and multi-omics approaches
 
