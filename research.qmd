@@ -25,8 +25,8 @@ We study smooth muscle–specific ADAR1-mediated RNA editing, dsRNA accumulation
 ![](images/research/pillar-vascularbeds.jpg){width=100% fig-align="center"}
 :::
 ::: {.column width="70%"}
-### 2) Vascular-bed specificity at single-cell resolution
-We define how developmental origin and vascular bed shape cell states, enhancers, and genetic risk mechanisms across human vascular disease.
+### 2) Epigenetic memory and vascular-bed specificity at single-cell resolution
+We define how developmental origin and vascular bed shape cell states, epigenetic enhancers, and genetic risk mechanisms across human vascular disease.
 :::
 :::
 
