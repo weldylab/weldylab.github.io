@@ -42,6 +42,7 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
         <div class="stanford-text">
           <div><strong>Chad S. Weldy, MD, PhD</strong></div>
           <div>Principal Investigator</div>
+          <div>Incoming Assistant Professor</div>
           <div>Division of Cardiovascular Medicine, Stanford University</div>
         </div>
       </div>
