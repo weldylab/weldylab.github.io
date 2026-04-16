@@ -29,6 +29,8 @@ website:
         text: People
       - href: medicine.qmd
         text: Medicine
+      - href: where-we-are.qmd
+        text: Where We Are
       - href: publications.qmd
         text: Publications
       - href: news/
