@@ -104,6 +104,38 @@ Our work integrates human genetics with molecular biology to show that impaired 
 
 ---
 
+::: {.columns .v-center}
+
+::: {.column width="60%"}
+
+### Developmental and innate immune epigenetic memory in vascular disease
+
+Vascular cells arise from distinct embryonic lineages, yet how developmental origin shapes adult disease susceptibility has remained poorly understood. In prior work, we defined a paradigm of **developmental epigenetic memory**, demonstrating that vascular smooth muscle cells, fibroblasts, and endothelial cells retain stable, lineage-specific chromatin accessibility patterns that persist into adulthood and influence disease-relevant gene programs.
+
+Using integrated single-cell transcriptomic and epigenomic profiling, we showed that enhancer landscapes are not only cell type-specific, but also vascular site-specific, reflecting embryonic origin and governing how genetic variants regulate disease risk.
+
+Building on this foundation, we are investigating how **innate immune activation interacts with and reshapes these epigenetic landscapes**. In particular, we study whether dsRNA sensing and interferon signaling induce persistent changes in chromatin accessibility, creating a second layer of acquired epigenetic memory in vascular cells.
+
+By integrating developmental and inflammatory epigenetic programs, our goal is to define how vascular cells encode both lineage history and prior immune exposures to drive disease progression and identify opportunities to therapeutically reset maladaptive cellular memory.
+
+:::
+
+::: {.column width="40%"}
+
+![](images/research/dev_epigenetic_memory.jpg){
+  width=100%
+  style="border-radius:8px; margin-bottom:0.5rem;"
+}
+
+*Developmental origin shapes chromatin accessibility and enhancer landscapes that regulate gene expression and genetic disease risk in a vascular site-specific manner.*
+
+:::
+
+:::
+
+---
+
+
 ## Featured publications
 
 ::: {.columns}
