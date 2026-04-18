@@ -124,10 +124,10 @@ By integrating developmental and inflammatory epigenetic programs, our goal is t
 
 ![](images/research/dev_epigenetic_memory.jpg){
   width=100%
-  style="border-radius:8px; margin-bottom:0.5rem;"
+  style="border-radius:8px; margin-bottom:0.25rem;"
 }
 
-*Developmental origin shapes chromatin accessibility and enhancer landscapes that regulate gene expression and genetic disease risk in a vascular site-specific manner.*
+*Developmental origin shapes chromatin accessibility and enhancer landscapes that regulate gene expression and genetic disease risk in a vascular site-specific manner. Adapted from Weldy et al.,* Molecular Systems Biology *(2025).*
 
 :::
 
