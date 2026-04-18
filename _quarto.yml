@@ -6,7 +6,7 @@ project:
     - favicon.ico
 
 website:
-  title: "Weldy Lab | Chad S. Weldy, MD, PhD | Stanford University"
+  title: "Weldy Lab"
   site-url: "https://weldylab.org"
 
   google-analytics: "G-EVBRMBPE47"
