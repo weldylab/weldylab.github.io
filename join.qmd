@@ -3,11 +3,48 @@ title: "Join the Lab"
 ---
 
 ## Open positions
-We welcome inquiries from:
-- Postdocs
-- Graduate students
-- Research assistants
-- Clinician-scientist trainees
+
+We are actively recruiting:
+
+- **Postdoctoral Fellow – RNA Biology and Cardiovascular Disease**  
+- **Lab Technician / Lab Manager – Cardiovascular Genomics and Molecular Biology**  
+- Graduate students  
+- Research assistants  
+- Clinician-scientist trainees  
+
+We are particularly excited to build a team of highly motivated individuals interested in leveraging *human genetics, RNA biology, and vascular biology* to uncover causal mechanisms of cardiovascular disease.
+
+---
+
+## Featured Opportunities
+
+### **Postdoctoral Fellow**
+
+We are seeking a postdoctoral fellow to lead an interdisciplinary project investigating how A-to-I RNA editing by ADAR1 regulates double-stranded RNA sensing and innate immune activation in atherosclerosis.
+
+This work integrates:
+- Mouse models of vascular disease  
+- Single-cell genomics (scRNA-seq, scATAC-seq)  
+- Epigenetic memory and innate immune signaling  
+- In vitro molecular and cellular biology  
+
+This position is ideal for candidates seeking to drive a high-impact, independent research program at the interface of RNA biology, epigenetics, immunology, and cardiovascular disease, with strong mentorship toward independence.
+
+---
+
+### **Lab Technician / Lab Manager**
+
+We are seeking a highly organized and motivated individual to play a central role in building and managing lab operations while contributing to research.
+
+Core responsibilities include:
+- Establishing lab infrastructure and workflows  
+- Managing ordering, inventory, and compliance  
+- Supporting molecular biology, cell culture, and mouse experiments  
+
+This position is ideal for candidates who want both operational leadership experience and scientific growth. The lab is highly supportive of individuals developing their own research projects, with opportunities for mentorship, skill development, and authorship.
+
+
+---
 
 ## Why join the Weldy Lab?
 
@@ -55,8 +92,15 @@ Our approach to mentorship is shaped by a non-linear path through science and me
 
 ### How to apply
 
-Email a brief note and CV to **weldyc@stanford.edu**, including your interests, relevant experience, and what excites you about the lab.
+To apply, please email:
+- Curriculum vitae  
+- Brief statement of interests and career goals  
 
+to **weldyc@stanford.edu**
+
+Please include a short note describing your background, what excites you about the lab, and which position you are interested in.
+
+---
 
 ![](images/stanford-sunset_0.jpg){
   width=100%
