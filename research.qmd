@@ -46,9 +46,30 @@ We use CRISPRi screening with targeted Perturb-seq (TAP-seq) to map transcriptio
 :::
 ::: {.column width="70%"}
 ### 4) Mouse genetics of smooth muscle transition and calcification
-We dissect epigenetic and molecular mechanisms using conditional smooth muscle deletion models (e.g., **Pdgfd**, **Sox9**) to connect genetics to disease phenotypes.
+We dissect epigenetic and molecular mechanisms using conditional smooth muscle deletion models to connect genetics to disease phenotypes, including pathways involved in cell-state transition, inflammation, and vascular calcification.
 :::
 :::
+
+---
+
+## Example projects
+
+Representative research directions in the lab include:
+
+### ADAR1 and dsRNA sensing by MDA5 in vascular smooth muscle cells
+We investigate how impaired A-to-I RNA editing by ADAR1 leads to activation of the innate immune sensor MDA5 in vascular smooth muscle cells during atherosclerosis. Using mouse models, single-cell genomics, and molecular approaches, we define how RNA editing regulates inflammatory activation, phenotypic switching, and plaque progression.
+
+### Innate immune epigenetic memory in vascular cells
+We study how transient inflammatory stimuli establish persistent epigenetic changes in vascular cells that influence long-term disease progression. This work integrates in vitro models, single-cell RNA-seq and ATAC-seq, and in vivo studies to define mechanisms of sustained immune activation and vascular memory.
+
+### ADAR1 and MDA5 in fibroblast-smooth muscle communication
+We examine how ADAR1 and MDA5 signaling pathways shape communication between adventitial fibroblasts and smooth muscle cells in atherosclerosis. By combining single-cell transcriptomics, ligand-receptor analysis, and functional perturbation, we aim to identify pathways driving pathogenic vascular remodeling.
+
+### CRISPRi screens to define downstream regulatory networks of MDA5 activation
+We use large pooled CRISPRi screens and targeted Perturb-seq approaches to identify genes and pathways that regulate MDA5 activation and downstream inflammatory signaling. These studies aim to uncover the broader regulatory networks controlling innate immune responses in vascular cells.
+
+### Therapeutic targeting of dsRNA sensing pathways in atherosclerosis
+We test whether modulation of MDA5 signaling can alter disease progression in atherosclerosis. Using genetic and pharmacologic approaches in preclinical models, this work seeks to establish dsRNA sensing pathways as candidate therapeutic targets in cardiovascular disease.
 
 ---
 
@@ -60,7 +81,7 @@ We dissect epigenetic and molecular mechanisms using conditional smooth muscle d
 
 Across evolution, organisms have retained mechanisms to diversify RNA beyond the genomic sequence. One such mechanism is adenosine-to-inosine (A-to-I) RNA editing, catalyzed by ADAR enzymes. ADAR-mediated editing occurs primarily within double-stranded RNA (dsRNA) structures formed by repetitive and non-coding RNA elements.
 
-A central function of ADAR1 is to suppress inappropriate innate immune activation. Through A-to-I editing, endogenous dsRNA is structurally modified to evade recognition by the dsRNA sensor MDA5 (*IFIH1*), preventing aberrant induction of type I interferon–stimulated gene (ISG) programs.
+A central function of ADAR1 is to suppress inappropriate innate immune activation. Through A-to-I editing, endogenous dsRNA is structurally modified to evade recognition by the dsRNA sensor MDA5 (*IFIH1*), preventing aberrant induction of type I interferon-stimulated gene (ISG) programs.
 
 Human genetic studies have revealed that common variants regulate RNA editing frequency (edQTLs), and alleles associated with reduced editing are linked to increased risk of coronary artery disease and inflammatory disorders. These findings position RNA editing as a genetically controlled process with relevance to common disease.
 
@@ -75,13 +96,11 @@ Our work integrates human genetics with molecular biology to show that impaired 
 ![](images/ADARfig.jpg){width=100% style="border-radius:8px; margin-bottom:1rem;"}
 *ADAR1-mediated A-to-I editing suppresses endogenous dsRNA sensing by MDA5.*  
 
-
 ![](images/ADARfig2.jpg){width=100% style="border-radius:8px;"}
 *Genetic regulation of RNA editing links dsRNA burden, MDA5 activation, and vascular disease risk.*
 
 :::
 :::
-
 
 ---
 
@@ -116,14 +135,13 @@ PMID: 40958051 · DOI: 10.1038/s44161-025-00710-5
 PMID: 40931195 · DOI: 10.1038/s44320-025-00140-2
 
 - **Cover**: November 2025 issue Molecular Systems Biology
--	[Highlighted by the Stanford Cardiovascular Institute →](https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2025/developmental-memory.html)
+- [Highlighted by the Stanford Cardiovascular Institute →](https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2025/developmental-memory.html)
 - [Read the paper →](https://doi.org/10.1038/s44320-025-00140-2)
 
 :::
 :::
 
 ---
-
 
 ## In the news
 
@@ -148,4 +166,3 @@ How developmental origin leaves a lasting imprint shaping regional vascular dise
 [Read the story →](news/2025-12-15-developmental-memory-arteries.html)
 :::
 :::
-
