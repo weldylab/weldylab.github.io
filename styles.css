@@ -373,7 +373,7 @@ img.lab-logo {
 
 .home-intro-grid {
   display: grid;
-  grid-template-columns: minmax(0, 760px) 260px;
+  grid-template-columns: minmax(0, 760px) 320px;
   gap: 2.5rem;
   align-items: start;
 }
@@ -416,34 +416,37 @@ img.lab-logo {
 .home-intro-side {
   display: flex;
   justify-content: center;
+  align-items: flex-start;
 }
 
 .home-logo-card {
   width: 100%;
-  max-width: 220px;
+  max-width: 300px;
   padding-top: 0.35rem;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 1.25rem;
 }
 
 .home-side-logo {
   display: block;
-  max-width: 100%;
   height: auto;
   object-fit: contain;
 }
 
+/* Lab logo = primary */
 .home-side-logo.lab-logo {
-  width: 200px;
-  max-width: 200px;
+  width: 260px;
+  max-width: 100%;
   border-radius: 14px;
 }
 
+/* Stanford logo = secondary */
 .home-side-logo.stanford-logo {
-  width: 180px;
-  max-width: 180px;
+  width: 200px;
+  max-width: 90%;
   margin-top: 0;
 }
 
@@ -451,28 +454,30 @@ img.lab-logo {
 @media (max-width: 1100px) {
   .home-intro-grid {
     grid-template-columns: 1fr;
-    gap: 1.5rem;
+    gap: 1.75rem;
   }
 
   .home-intro-side {
-    justify-content: flex-start;
+    justify-content: center;
   }
 
   .home-logo-card {
     max-width: none;
     flex-direction: row;
     align-items: center;
-    gap: 1.5rem;
+    justify-content: center;
+    gap: 2rem;
+    padding-top: 0;
   }
 
   .home-side-logo.lab-logo {
-    width: 170px;
-    max-width: 170px;
+    width: 220px;
+    max-width: 220px;
   }
 
   .home-side-logo.stanford-logo {
-    width: 150px;
-    max-width: 150px;
+    width: 180px;
+    max-width: 180px;
   }
 }
 
@@ -505,18 +510,20 @@ img.lab-logo {
 
   .home-logo-card {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
+    justify-content: center;
     gap: 1rem;
+    margin-top: 0.5rem;
   }
 
   .home-side-logo.lab-logo {
-    width: 150px;
-    max-width: 150px;
+    width: 220px;
+    max-width: 80%;
   }
 
   .home-side-logo.stanford-logo {
-    width: 135px;
-    max-width: 135px;
+    width: 170px;
+    max-width: 70%;
   }
 
   .home-intro-text,
