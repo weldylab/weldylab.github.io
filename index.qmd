@@ -8,62 +8,52 @@ description: "The Weldy Lab integrates cardiovascular genetics, RNA biology, and
 
 
 ```{=html}
-<div class="hero-split">
-  <div class="column">
-    <div class="hero-text">
-      <div class="hero-kicker">
-        <span class="hero-title">Weldy Lab</span>
-        <span class="hero-sep"> | </span>
-        <span class="hero-subtitle">Genes · RNA · Hearts · Medicine</span>
-      </div>
+<section class="hero-artwork">
+  <img
+    src="images/landing_page.jpg"
+    alt="DNA structures assembling into a heart, representing genetics and cardiovascular biology"
+    class="hero-artwork-img">
+</section>
 
-      <div class="hero-tagline">
-        From genetic discovery to cardiovascular innovation
-      </div>
+<section class="home-intro">
+  <div class="home-intro-inner">
 
-      <div style="font-size: 1.15rem; line-height: 1.7; margin-top: 1.25rem; max-width: 42rem;">
-        The Weldy Lab is an independent research group at Stanford University
-        that integrates human genetics, epigenetics, RNA biology, and vascular biology to uncover
-        causal mechanisms of cardiovascular disease and advance new therapeutic strategies.
-      </div>
-
-      <div style="font-size: 1.02rem; line-height: 1.7; margin-top: 1rem; max-width: 42rem;">
-        Using single-cell genomics, molecular biology, and in vivo models, we study how
-        genetic variation shapes vascular cell behavior, inflammation, and disease risk.
-      </div>
-
-      <div class="hero-buttons" style="margin-top: 1.5rem;">
-        <a class="btn btn-primary" href="research.qmd">Research</a>
-        <a class="btn btn-outline-primary" href="people.qmd">People</a>
-        <a class="btn btn-outline-secondary" href="join.qmd">Join</a>
-      </div>
-
-      <div class="stanford-line" style="margin-top: 1.5rem;">
-        <div class="stanford-text">
-          <div><strong>Chad S. Weldy, MD, PhD</strong></div>
-          <div>Principal Investigator</div>
-          <div>Incoming Assistant Professor</div>
-          <div>Division of Cardiovascular Medicine, Stanford University</div>
-        </div>
-      </div>
-
+    <div class="hero-kicker">
+      <span class="hero-title">Weldy Lab</span>
+      <span class="hero-sep"> | </span>
+      <span class="hero-subtitle">Genes · RNA · Hearts · Medicine</span>
     </div>
-  </div>
 
-  <div class="column">
-    <div class="hero-right">
-      <img
-        src="images/LabLogoSocial.png"
-        alt="Weldy Lab hero image"
-        class="hero-img-split">
-
-      <img
-        src="images/SUSig_StnfrdOnly_red.png"
-        alt="Stanford University"
-        class="stanford-hero-logo">
+    <div class="hero-tagline">
+      From genetic discovery to cardiovascular innovation
     </div>
+
+    <div class="home-intro-text">
+      The Weldy Lab is an independent research group at Stanford University that integrates human genetics, epigenetics, RNA biology, and vascular biology to uncover causal mechanisms of cardiovascular disease and advance new therapeutic strategies.
+    </div>
+
+    <div class="home-intro-text home-intro-text-secondary">
+      Using single-cell genomics, molecular biology, and in vivo models, we study how genetic variation shapes vascular cell behavior, inflammation, and disease risk.
+    </div>
+
+    <div class="hero-buttons">
+      <a class="btn btn-primary" href="research.qmd">Research</a>
+      <a class="btn btn-outline-primary" href="people.qmd">People</a>
+      <a class="btn btn-outline-secondary" href="join.qmd">Join</a>
+    </div>
+
+    <div class="stanford-line">
+      <div class="stanford-text">
+        <div><strong>Chad S. Weldy, MD, PhD</strong></div>
+        <div>Principal Investigator</div>
+        <div>Assistant Professor, Department of Medicine</div>
+        <div>Division of Cardiovascular Medicine, Stanford University</div>
+      </div>
+    </div>
+
   </div>
-</div>
+</section>
+
 ```
 
 ---
