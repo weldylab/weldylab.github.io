@@ -371,15 +371,9 @@ img.lab-logo {
   padding: 0 1.25rem;
 }
 
-.home-intro-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 760px) 320px;
-  gap: 2.5rem;
-  align-items: start;
-}
-
 .home-intro-main {
   min-width: 0;
+  max-width: 860px;
 }
 
 .home-intro-text {
@@ -413,74 +407,35 @@ img.lab-logo {
   color: #555;
 }
 
-.home-intro-side {
+.home-logo-row {
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-
-.home-logo-card {
-  width: 100%;
-  max-width: 300px;
-  padding-top: 0.35rem;
-  display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  gap: 1.25rem;
+  gap: 2rem;
+  margin-top: 2rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid #e5e7eb;
 }
 
-.home-side-logo {
+.home-row-logo {
   display: block;
   height: auto;
   object-fit: contain;
 }
 
 /* Lab logo = primary */
-.home-side-logo.lab-logo {
-  width: 260px;
+.home-row-logo.lab-logo {
+  width: 170px;
   max-width: 100%;
-  border-radius: 14px;
+  border-radius: 12px;
 }
 
 /* Stanford logo = secondary */
-.home-side-logo.stanford-logo {
-  width: 200px;
-  max-width: 90%;
-  margin-top: 0;
+.home-row-logo.stanford-logo {
+  width: 150px;
+  max-width: 100%;
 }
 
 /* Responsive */
-@media (max-width: 1100px) {
-  .home-intro-grid {
-    grid-template-columns: 1fr;
-    gap: 1.75rem;
-  }
-
-  .home-intro-side {
-    justify-content: center;
-  }
-
-  .home-logo-card {
-    max-width: none;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem;
-    padding-top: 0;
-  }
-
-  .home-side-logo.lab-logo {
-    width: 220px;
-    max-width: 220px;
-  }
-
-  .home-side-logo.stanford-logo {
-    width: 180px;
-    max-width: 180px;
-  }
-}
-
 @media (max-width: 991px) {
   .hero-artwork-img {
     height: 420px;
@@ -508,22 +463,19 @@ img.lab-logo {
     height: 280px;
   }
 
-  .home-logo-card {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 0.5rem;
+  .home-logo-row {
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
   }
 
-  .home-side-logo.lab-logo {
-    width: 220px;
-    max-width: 80%;
+  .home-row-logo.lab-logo {
+    width: 150px;
   }
 
-  .home-side-logo.stanford-logo {
-    width: 170px;
-    max-width: 70%;
+  .home-row-logo.stanford-logo {
+    width: 130px;
   }
 
   .home-intro-text,
