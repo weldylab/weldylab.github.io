@@ -424,14 +424,14 @@ img.lab-logo {
 
 /* Lab logo = primary */
 .home-row-logo.lab-logo {
-  width: 170px;
+  width: 220px;
   max-width: 100%;
   border-radius: 12px;
 }
 
 /* Stanford logo = secondary */
 .home-row-logo.stanford-logo {
-  width: 150px;
+  width: 200px;
   max-width: 100%;
 }
 
