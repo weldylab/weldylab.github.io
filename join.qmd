@@ -1,48 +1,38 @@
 ---
-title: "Join the Lab"
+title: "Join the Weldy Lab"
 ---
 
-## Open positions
+## Opportunities
 
-We are actively recruiting founding members of the lab:
+The Weldy Lab is a growing research group at Stanford University studying the genetic and molecular mechanisms of cardiovascular disease, with particular interests in *human genetics, RNA biology, innate immune signaling, and vascular cell biology*.
 
-- **Postdoctoral Fellow – RNA Biology and Cardiovascular Disease**  
-- **Lab Technician / Lab Manager – Cardiovascular Genomics and Molecular Biology**  
-- Graduate students  
-- Research assistants  
-- Clinician-scientist trainees  
-
-We are particularly excited to build a team of highly motivated individuals interested in leveraging *human genetics, RNA biology, and vascular biology* to uncover causal mechanisms of cardiovascular disease.
+Our initial laboratory team is now in place. As the lab continues to grow, we remain interested in hearing from exceptional scientists whose research interests and career goals strongly align with our work.
 
 ---
 
-## Featured Opportunities
+## Postdoctoral Fellows
 
-### **Postdoctoral Fellow**
+We welcome inquiries from outstanding prospective postdoctoral fellows interested in developing interdisciplinary research at the intersection of:
 
-We are seeking a postdoctoral fellow to lead an interdisciplinary project investigating how A-to-I RNA editing by ADAR1 regulates double-stranded RNA sensing and innate immune activation in atherosclerosis.
+- RNA biology and A-to-I RNA editing
+- Innate immune sensing and inflammatory memory
+- Vascular biology and atherosclerosis
+- Human genetics and functional genomics
+- Single-cell and epigenomic approaches
 
-This work integrates:
-- Mouse models of vascular disease  
-- Single-cell genomics (scRNA-seq, scATAC-seq)  
-- Epigenetic memory and innate immune signaling  
-- In vitro molecular and cellular biology  
+Potential projects can build on ongoing work investigating how ADAR1-mediated RNA editing, endogenous double-stranded RNA sensing, and innate immune pathways regulate vascular cell state and cardiovascular disease.
 
-This position is ideal for candidates seeking to drive a high-impact, independent research program at the interface of RNA biology, epigenetics, immunology, and cardiovascular disease, with strong mentorship toward independence.
+We are particularly interested in candidates who want to develop an independent scientific identity and take intellectual ownership of an ambitious research direction. Prospective fellows with relevant expertise, strong scientific curiosity, or ideas that could open complementary directions for the lab are encouraged to reach out.
+
+Candidates interested in developing fellowship applications—including NIH, AHA, and other external postdoctoral funding mechanisms—are also welcome to contact the lab well in advance of application deadlines.
 
 ---
 
-### **Lab Technician / Lab Manager**
+## Students and Trainees
 
-We are seeking a highly organized and motivated individual to play a central role in building and managing lab operations while contributing to research.
+We are happy to hear from Stanford graduate students, research assistants, and clinician-scientist trainees interested in research experiences or potential collaborations.
 
-Core responsibilities include:
-- Establishing lab infrastructure and workflows  
-- Managing ordering, inventory, and compliance  
-- Supporting molecular biology, cell culture, and mouse experiments  
-
-This position is ideal for candidates who want both operational leadership experience and scientific growth. The lab is highly supportive of individuals developing their own research projects, with opportunities for mentorship, skill development, and authorship.
-
+Availability depends on current projects, mentorship capacity, and scientific fit.
 
 ---
 
@@ -75,10 +65,10 @@ We aim to foster an environment rooted in mutual respect, curiosity, and enthusi
 
 We are excited to work with individuals who:
 
-- Are curious about the genetic and molecular basis of cardiovascular disease  
-- Enjoy interdisciplinary science and learning new approaches  
-- Value close mentorship and collaboration  
-- Are motivated to develop independence and scientific ownership  
+- Are curious about the genetic and molecular basis of cardiovascular disease
+- Enjoy interdisciplinary science and learning new approaches
+- Value close mentorship and collaboration
+- Are motivated to develop independence and scientific ownership
 
 ---
 
@@ -90,15 +80,18 @@ Our approach to mentorship is shaped by a non-linear path through science and me
 
 ---
 
-### How to apply
+### Interested in the Lab?
 
-To apply, please email:
-- Curriculum vitae  
-- Brief statement of interests and career goals  
+Scientists and trainees whose interests align closely with the Weldy Lab are welcome to reach out.
 
-to **weldyc@stanford.edu**
+Please email **weldyc@stanford.edu** with:
 
-Please include a short note describing your background, what excites you about the lab, and which position you are interested in.
+- A curriculum vitae
+- A brief description of your research background and interests
+- What specifically interests you about the lab
+- Your anticipated timeline and career goals
+
+For prospective postdoctoral fellows, please also describe the scientific questions you are most excited to pursue and how you see your background contributing to or expanding the lab’s research program.
 
 ---
 
