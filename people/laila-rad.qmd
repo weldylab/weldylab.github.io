@@ -18,7 +18,7 @@ Dr. Laila Rad is a postdoctoral fellow in the Division of Cardiovascular Medicin
 
 She received her Ph.D. in Biomedical Engineering from the University of Michigan, where she conducted preclinical research developing and applying biomaterial-based approaches for the treatment and diagnosis of food allergy and autoimmune disease.
 
-In the Weldy Lab, Laila combines her background in **immunology, bioinformatics, and biomaterials** to investigate how RNA sensing and innate immune activation contribute to the causal mechanisms of atherosclerosis. Her work aims to define how these pathways regulate vascular disease and explore new strategies for therapeutic intervention.
+In the Weldy Lab, Laila combines her background in immunology, bioinformatics, and biomaterials to investigate how RNA sensing and innate immune activation contribute to the causal mechanisms of atherosclerosis. Her work aims to define how these pathways regulate vascular disease and explore new strategies for therapeutic intervention.
 
 ---
 
