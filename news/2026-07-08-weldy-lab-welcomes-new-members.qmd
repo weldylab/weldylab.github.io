@@ -8,7 +8,7 @@ image: ../images/laila-elissa.jpg
 
 ![](../images/laila-elissa.jpg){fig-align="center" width=85%}
 
-The Weldy Lab is excited to welcome **Dr. Laila Rad** and **Elissa Oliver** as the first members of our growing research team.
+The Weldy Lab is excited to welcome Dr. Laila Rad and Elissa Oliver as the first members of our growing research team.
 
 Their arrival marks an exciting milestone for the lab as we build a collaborative research program focused on uncovering the genetic and molecular mechanisms of cardiovascular disease.
 
