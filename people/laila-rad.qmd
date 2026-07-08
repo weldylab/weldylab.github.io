@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Laila Rad, PhD"
 subtitle: "Postdoctoral Fellow"
@@ -14,7 +14,7 @@ description: |
 
 ### Bio
 
-Dr. Laila Rad is a postdoctoral fellow in the Division of Cardiovascular Medicine at Stanford University. Her research lies at the intersection of **RNA biology, vascular biology, immunology, and cardiovascular disease**.
+Dr. Laila Rad is a postdoctoral fellow in the Division of Cardiovascular Medicine at Stanford University. Her research lies at the intersection of RNA biology, vascular biology, immunology, and cardiovascular disease.
 
 She received her Ph.D. in Biomedical Engineering from the University of Michigan, where she conducted preclinical research developing and applying biomaterial-based approaches for the treatment and diagnosis of food allergy and autoimmune disease.
 
