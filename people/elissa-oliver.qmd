@@ -1,6 +1,6 @@
 
 ---
-title: "Elissa Oliver"
+title: "Elissa Oliver, B.S."
 subtitle: "Life Science Research Professional 1"
 order: 3
 image: /images/elissa-oliver.jpg
