@@ -16,9 +16,11 @@ description: |
 
 Dr. Laila Rad is a postdoctoral fellow in the Division of Cardiovascular Medicine at Stanford University. Her research lies at the intersection of RNA biology, vascular biology, immunology, and cardiovascular disease.
 
-She received her Ph.D. in Biomedical Engineering from the University of Michigan, where she conducted preclinical research developing and applying biomaterial-based approaches for the treatment and diagnosis of food allergy and autoimmune disease.
+Laila completed her B.S. in Bioengineering at UCLA, where she conducted research on using biomaterials for treating central nervous system pathologies. She received her Ph.D. in Biomedical Engineering from the University of Michigan, where her dissertation work focused on immunomodulatory biomaterials for the treatment and diagnosis of food allergy and autoimmune disease.
 
 In the Weldy Lab, Laila combines her background in immunology, bioinformatics, and biomaterials to investigate how RNA sensing and innate immune activation contribute to the causal mechanisms of atherosclerosis. Her work aims to define how these pathways regulate vascular disease and explore new strategies for therapeutic intervention.
+
+Laila is originally from San Diego, CA. Outside of the lab, she enjoys coastal walks, rock climbing, a good cup of coffee, and spending time with her bird.
 
 ---
 
